@@ -4,14 +4,11 @@ title: My thoughts
 description: My thoughts
 date: 2020-02-07 10:59:00 +0700
 categories: autobiography
-thumbnail: 
+thumbnail: https://lh3.googleusercontent.com/hy1sB7VOwbNjOSqY64d_7Og5EVPhJnJoPx1U9d9QnQKZBCu-dsD155BFXucvbZvo7JWWjEHTIUj4ZHCsfCIPr_vxxhEra4lUIb7L6PvlBfZz4YQVEQG4Kg_kKnzc9CR0ewStehNmKDVRT10uocXvgekpU-jftF1HdLVsbfbr7wk7HXboANJdN1qAZbJbaWxm3P8Dw2trLSv-zt0MoMnrVdL7wRxkXi8DzSDyUR5gZLULLxsrMn3AA7KbDoxEqkIs65dUbhwCVjuNToPRjqu43Db7UFG-1eAgB1YSbk7Y1tRImh-3nJSmbVvamE2tcCTZqm9sbM2dvk1WWpjFFDvuBFL6XtqAo6q9Km8dZh0m4MOCZw8WatE5AzVZ-cIT6kaFoDU2HqLJ6eFOzWFVPpFNvJ13JL3WTQUvGFic4MtKlQGoMxReHOO9R1iD5W0W_HtmL7eyOxps_S3NwdCPXPCsuEVAiur5ELVIg6-HcTBgXjscPNQd3hUnRrbH-E2gA1bADeLhoch_rY_-tj4tPBSrjjmr497B4F7Mqg-B6TrUaknYikXHCOfH4QntvooMvitkTK9Bw-dymtezLNNf19WOsNnWWmuspJMOBDy1Q4gPURuLDaWxA89InulzehNrtFIt4wHpSwoswtEgb8LEg6LGyYqNrofxNH_U6sMKQ-A_FG_OnmP4Fez9KO4=w628-h419-no
 ---
 
 <!-- {:.first-large-letter} -->
   Hôm nay, ngày 7 tháng 2, 2020.
   <br>
-  Đây là cuốn sổ tôi được mọi người tặng, bìa sổ màu đỏ có khắc chìm dòng chữ "Solid Color". SOLID cũng là một khái niệm nguyên lý mà tôi thỉnh thoảng nghĩ đến, công việc của tôi, mọi người cùng ngành hiểu biết đều sẽ hướng tới nguyên lý này. 
+  Đây là cuốn sổ tôi được mọi người tặng, bìa sổ màu đỏ có khắc chìm dòng chữ "Solid Color". SOLID là một khái niệm nguyên lý.
   <br>
-  Tôi đang nhìn ra xa không gian xung quanh mình, vì tôi bị cận thị đã lâu nên tôi nhìn mọi thứ sẽ thấy hơi mờ, cũng vì đang hơi mệt một chút nên tiếng mọi người khác nói đan xen vào nhau đều khiến tôi cảm thấy thật lộn xộn. Nói chung bất kể điều gì không tĩnh lặng, chưa đủ rõ ràng hay không ngăn nắp đều sẽ khiến một người như tôi cảm thấy khó chịu.
-  <br>
-  Việc cảm thấy khó chịu, theo tôi nghĩ đó không phải là vì tôi bị chú ý bởi những điều lộn xộn đó mà là do tôi mất đi sự tập trung ở chính mình.
