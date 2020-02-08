@@ -13,7 +13,7 @@ layout: home
 
   <div class="masonry">
     {%- for post in site.posts -%}
-      <div sclass="article">S
+      <div sclass="article">
         <div class="thumb">
           <a class="post-link" href="{{ post.url | relative_url }}">
             <img src="{{ post.thumbnail }}">
