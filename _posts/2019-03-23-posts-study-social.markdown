@@ -3,7 +3,7 @@ layout: post
 title: My Social Network
 description: A social for share and learn from each other, based on ideas between Medium, Quora and Stack Exchange socials, where everyone can write an long article or make a simple question, can become a teacher make tutorials or student study and make testing.
 date: 2019-03-23 10:59:00 +0700
-categories: netcore
+categories: demo
 thumbnail: https://lh3.googleusercontent.com/9bP8fn2ruJnGVA3uPYiQ8fIbvHhP6oKUseBMl-6iUAZ5hS4ma4cPFuZ4BRu3WX6J9YOQG4wbKOW0Ntp0yFn-dQV-lukmqplek26Hc5Pwi-a9XcWOVvaEMUAdyAWUjZpCclASh6C5-HX6eJlUFVexe9DznNBblOpL5e0erxviN1_l3xGiXTi5-pT-2Me4t_vMRKExws72mGIvniJJVXyKvJFgSiidnHNXApuILa3NAb-WskObA0kaZCnxw35JGWdKSL762txSIL_5r-2HD9JaabbRfX7aGJOYhRleViixHl6t7JBY4r65gcGJhrZCHIqPW5OdOQnYT2yz8nHd0xDoj4ALgKuNmp7q1wVQIPX-Bnvcf6ywT9F7JR_uW65Id8YxN7wpXwr_joaJ9BYybAqdDJEWOl6HT10Pt9OUgeLBVX--giv0nRYvlp-1leVT7z4JKxTkNPmWnSQpOwRRQ5bRcLALbRcX85wemcqRtnwC_gibXs7IKVNpqjakgKGn4U-DhR9Ztf8FZyntUqph5MjX2QWwxL4yau94-l9rW6ep_b6TWEldggSS9Fdl3T3v3LQl_9ODNiUx_vOsp5ctJAFFLbI6UCoHmLe2-aYADWw8UsGc0UmzdrABFsQ8rOKiAgZBE1PcxYeJFdFDnEuwC0ioshGLmL_L55YxAYlPR-YaLiPmxrPj4qqLcx4VJgr8hj0GiWy4Uut6CZl2w9jaeQWtpe8EnlMQUwAW0qnqELzQJcjb-OOJ=w1000-h726-no
 ---
 
