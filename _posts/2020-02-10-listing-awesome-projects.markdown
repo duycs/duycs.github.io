@@ -12,41 +12,53 @@ thumbnail: https://lh3.googleusercontent.com/45XG8utgweCodQ7akcGy3_xHenwKINi5XB-
 Listing awesome projects in many domains and stack technical to learning, researching.
 
 ## Domain
+- Ecomerce
+- CMS
+- ERP
+- LMS
+- Medical
+- Social
 
 ## Book
-- Domain driven design 
-- Designing APIs 
-
-## C#
+- [Domain Driven Design](https://drive.google.com/file/d/1aGqTRfGDbKAKPgxaZozpeR0QaPSdU2N4/view?usp=sharing){:.text-link} _ Eric Evans
+- [Designing Web APIs](https://drive.google.com/file/d/142lqveMGzB1UTgFefXHMlzqhU9K_kHNt/view?usp=sharing){:.text-link} _ Brenda Jin, Saurabh Sahni & Amir Shevat
 
 ## .NET
+- [.Net Docs](https://docs.microsoft.com/en-us/dotnet/){:.text-link}
 
 ## JAVA
+- [Java Docs](https://docs.oracle.com/javase/tutorial/){:.text-link}
 
 ## Python
+- [Django Docs](https://docs.djangoproject.com/en/3.0/){:.text-link}
 - https://opensource.com/article/19/5/python-3-default-mac
 
 ## Angular
+- [Angular Docs](https://angular.io/docs){:.text-link}
 
-## React
+## ReactJs
+- [Reactjs Docs](https://reactjs.org/docs/getting-started.html){:.text-link}
 - https://jasonwatmore.com/post/2019/04/06/react-jwt-authentication-tutorial-example
 - https://material-ui.com/api/button/
 
-## Vue
+## VueJs
+- [VueJs Docs](https://vuejs.org/v2/guide/){:.text-link}
 
 ## SQL
 
 ## Awesome systems
-- https://github.com/binhnguyennus/awesome-scalability
-
+- [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability){:.text-link}
 
 ## Ecomerce
-- https://github.com/nopSolutions/nopCommerce
+- [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce){:.text-link}
 
+## Awesome pages
+- [Square Open Source](https://square.github.io/){:.text-link}
+- [Webflow](https://webflow.com/){:.text-link}
 
 ## Hacking
-- https://proxyman.io/
-- https://www.hopperapp.com/download.html?
-- https://bananafishsoftware.com/products/dumper/
+- [Proxyman](https://proxyman.io/){:.text-link}
+- [Hpper](https://www.hopperapp.com/download.html){:.text-link}
+- [Dumper](https://bananafishsoftware.com/products/dumper){:.text-link}
 
 
