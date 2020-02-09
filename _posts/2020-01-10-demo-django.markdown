@@ -86,6 +86,7 @@ INSTALLED_APPS = [
 - Swagger exception at Django 3
 - Expired token time
 
+---
 ### References
 - https://docs.djangoproject.com/en/3.0/
 - https://www.django-rest-framework.org/tutorial/

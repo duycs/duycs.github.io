@@ -30,6 +30,6 @@ A class should only have a single responsibility, that is, only changes to one p
 ### Dependency inversion principle
 One should "depend upon abstractions, [not] concretions."
 
-
+---
 ## References
 - https://en.wikipedia.org/wiki/SOLID

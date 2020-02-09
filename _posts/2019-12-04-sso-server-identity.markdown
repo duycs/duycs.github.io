@@ -12,6 +12,10 @@ thumbnail: https://miro.medium.com/max/640/1*bfCVhwUWVB1Y6Ju4OB7sjw.png
 ## Criteria
 Create a Single sign on authentication server, support development many applications with only once sign on
 
+## Sources
+- Server: [https://github.com/duycs/sso-server](https://github.com/duycs/sso-server){:.text-link}
+- Client: [https://github.com/duycs/sso-oauth-client](https://github.com/duycs/sso-oauth-client){:.text-link}
+
 ## Development environment
 - Visual Studio Code
 - IdentityServer4
@@ -52,6 +56,7 @@ DEALLOCATE PREPARE stmt;
 SET FOREIGN_KEY_CHECKS = 1; 
 ```
 
+---x
 ### References
 - https://en.wikipedia.org/wiki/Single_sign-on
 - https://github.com/mmacneil/AngularASPNETCoreOAuth

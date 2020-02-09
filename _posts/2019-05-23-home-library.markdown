@@ -11,7 +11,7 @@ thumbnail: https://lh3.googleusercontent.com/FgeypeEi9nYjbCVuAcmTNfSqwAxEmNhB8pJ
 
 Because I have many ebooks and paper books so I develop this site to hope that I can share books with everyone, I base on ideas like as Goodreads social and Zlibrary share ebooks online.
 
-### Git 
+### Sources 
 - API: [https://github.com/duycs/web-api-book-library](https://github.com/duycs/web-api-book-library){:.text-link}
 - Client: [https://github.com/duycs/web-app-book-library](https://github.com/duycs/web-app-book-library){:.text-link}
 

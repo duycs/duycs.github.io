@@ -158,7 +158,8 @@ HEROKU_APP_NAME: The name that you used when you were creating new Heroku applic
 - Coding and push to master branch, after a few minutes, go to your Heroku application domain and enjoy your change!
 - The article's app can be found at: https://duycs-demo-net-core.herokuapp.com/
 
-# References
+---
+### References
 - https://circleci.com/docs/2.0/configuration-reference/
 - https://devcenter.heroku.com/categories/reference
 - https://developer.okta.com/blog/2019/09/18/build-a-simple-dotnet-core-app-in-docker
