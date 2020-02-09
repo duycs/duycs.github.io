@@ -7,6 +7,8 @@ categories: netcore
 thumbnail: https://wiki.matbao.net/wp-content/uploads/2019/08/cms-la-gi-vai-tro-cms-trong-chien-dich-marketing.jpg
 ---
 
+![](https://wiki.matbao.net/wp-content/uploads/2019/08/cms-la-gi-vai-tro-cms-trong-chien-dich-marketing.jpg)
+
 A simple Content management system with Database first.
 
 ### Criteria
@@ -14,14 +16,13 @@ A simple Content management system with Database first.
 - Understand Database first concept
 - Implement RestAPI enpoints with logic handle in Controller layer
 
+### Source
+[https://github.com/duycs/demo-cms](https://github.com/duycs/demo-cms){:.text-link}
+
 ### Keywords
 - ASP.NET Core
 - Content management system (CMS)
 - Database first
-
----
-#### Tutorial_08/1/2020
-# Design a database that description your ideas
 
 ### What is the CMS?
 - A content management system (CMS) is a software application that can be used to manage the creation and modification of digital content.

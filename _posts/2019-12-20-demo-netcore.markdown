@@ -7,12 +7,17 @@ categories: netcore
 thumbnail: https://i1.wp.com/www.codingnagger.com/wp-content/uploads/2018/02/free_continuous_delivery.png?fit=2000%2C571&ssl=1
 ---
 
+![](https://i1.wp.com/www.codingnagger.com/wp-content/uploads/2018/02/free_continuous_delivery.png?fit=2000%2C571&ssl=1)
+
 Create a ASP.NET Core project then deploy to Heroku server via CircleCI continuous integration
 
 ### Criteria
 - Help you choose a solution modern, cross-platform, automation to build your project
 - For small-scale applications, everything is free, so good for study and make a demo
 - Your application can access online, you will feel realistic and can share your ideas
+
+### Source
+[https://github.com/duycs/demo-netcore](https://github.com/duycs/demo-netcore){:.text-link}
 
 ### Keywords
 - ASP.NET Core

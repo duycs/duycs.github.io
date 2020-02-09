@@ -7,11 +7,13 @@ categories: netcore
 thumbnail: https://miro.medium.com/max/700/1*MQ-Lf8tmtfa-pumN2Sh0cw.png
 ---
 
+![](https://miro.medium.com/max/700/1*MQ-Lf8tmtfa-pumN2Sh0cw.png)
+
 ### Criteria
 This project demo a backend RESTful API use Django framework
 
-### Git 
-https://github.com/duycs/demo-django
+### Source 
+[https://github.com/duycs/demo-django](https://github.com/duycs/demo-django){:.link-text}
 
 ### Keywords
 - Python
