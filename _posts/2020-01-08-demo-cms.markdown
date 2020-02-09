@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A simple idea about CMS
-description: A simple Content management system with Database first
+description: A simple Content management system with Database first.
 date: 2020-01-08 10:59:00 +0700
 categories: netcore
 thumbnail: https://wiki.matbao.net/wp-content/uploads/2019/08/cms-la-gi-vai-tro-cms-trong-chien-dich-marketing.jpg

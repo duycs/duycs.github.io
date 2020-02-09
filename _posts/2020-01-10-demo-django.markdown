@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demo Django
-description: This project demo a backend RESTful API use Django framework
+description: This project demo a backend RESTful API use Django framework.
 date: 2020-01-10 10:59:00 +0700
 categories: netcore
 thumbnail: https://miro.medium.com/max/700/1*MQ-Lf8tmtfa-pumN2Sh0cw.png

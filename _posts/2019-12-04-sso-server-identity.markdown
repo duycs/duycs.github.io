@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SSO Server Identity
-description: Create a Single sign on authentication server, support development many applications with only once sign on
+description: Create a Single sign on authentication server, support development many applications with only once sign on.
 date: 2020-12-04 10:59:00 +0700
 categories: netcore
 thumbnail: https://miro.medium.com/max/640/1*bfCVhwUWVB1Y6Ju4OB7sjw.png

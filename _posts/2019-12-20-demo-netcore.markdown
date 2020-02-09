@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demo Net core and continuous integration
-description: Create a ASP.NET Core project then deploy to Heroku server via CircleCI continuous integration
+description: Create a ASP.NET Core project then deploy to Heroku server via CircleCI continuous integration.
 date: 2019-12-20 10:59:00 +0700
 categories: netcore
 thumbnail: https://i1.wp.com/www.codingnagger.com/wp-content/uploads/2018/02/free_continuous_delivery.png?fit=2000%2C571&ssl=1
