@@ -68,6 +68,10 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [Colab](https://cloud.google.com/automl-tables/docs/notebooks?hl=vi){:.text-link}
 - [Firebase Docs](https://firebase.google.com/docs){:.text-link}
 
+## AI
+- [Machine leaning coban](https://machinelearningcoban.com/){:.text-link}
+- [Thang Luong Google Brain](https://research.google/people/105176/){:.text-link}
+
 ## Awesome Projects
 - [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce){:.text-link}
 - [Square Open Source](https://square.github.io/){:.text-link}
