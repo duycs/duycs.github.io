@@ -18,3 +18,8 @@ Because I have many ebooks and paper books so I develop this site to hope that I
 ### Deployment
 - API docs: [https://poststudy-library.azurewebsites.net/index.html](https://poststudy-library.azurewebsites.net/index.html){:.text-link}
 - Client: [http://library.poststudy.s3-website-ap-southeast-1.amazonaws.com/](http://library.poststudy.s3-website-ap-southeast-1.amazonaws.com/){:.text-link}
+
+### My home library with many paper books
+We can read books together, are you interested?
+
+![](https://lh3.googleusercontent.com/PQSWKs6ClbfnuMvCve_VPZOq8T8PVMKZVtKY8HLuB-dMRe2w986swVVWcVJu1tt-ruWcQx4oVGKRxgmt5KcC0dABTwHGNqZh5jL2611ijG62DDHerVTqbIolPRidRn9wZeV0mgPzQ7QIRHD4J_bFf6HluNjKpc0C_WC7PvRJldPQllVR-y0KjV3VvgI8aosTOryp0AnE1wz3yP9Mb_7v_J2POtkRv6jnRY3Ks7rDYHfGHTkkJK27FmTmsujqdUJjIiqanbd1kVQZgZQcT2DVIWjDFJ1C22TEqJdUYsJKGTlXHBiEIfyaHeVgEcqHxAmRhEsGS6K-mCEk5iNaGPbpqM2DTKvuj299uu-tyEakX4-j51ONcaKvNpuU11EUqFAXys4HaTmj4jfv-JjpsbegGAxnvmlx9iE3FAp5uLzinEksLSlocoI1ZylS8SHI834XB1bcnOIzNmF8zBxVnqhSyrAoCMiilbg8zJoY72VQI5vvVCRsYzphIq96PAsWIsfQDjaTR9jBOHKfaTj3viG6gpuBLkkGQR-zT0sOVC1_eVSTwrdvCJcagwsrCC5o0tRovXM1jJcD-9fexZ6URyhKlPxGlXSdmhbqfEcwT8JvaVeq6XRr90pmuQpNId4Rdl-QxTzxlwG9utIC-NLAYDO7S7MZi2yWRAoXapomKpP-F7WxjZ3EcYaMy1GQ9BZbX1EK7tJXqgRW9_QcWSOkzm3-LdleooeZrTXVVbuhaaykEP3WO6HG=w1616-h1080-no)
