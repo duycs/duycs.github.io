@@ -15,7 +15,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 
 ## Book
 - Domain driven design 
-- Designing APIs
+- Designing APIs 
 
 ## C#
 
@@ -48,3 +48,5 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - https://proxyman.io/
 - https://www.hopperapp.com/download.html?
 - https://bananafishsoftware.com/products/dumper/
+
+
