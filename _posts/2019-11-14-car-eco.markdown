@@ -1,0 +1,28 @@
+---
+layout: post
+title: Transport ecosystem and car trade
+description: A project Laravel API for transport ecosystem and car trade.
+date: 2020-11-14 10:59:00 +0700
+categories: php-laravel
+thumbnail: https://drive.google.com/file/d/1CwS4FDfBZxeK3wxHmkrGQQSV7hfufPkh/view?usp=sharing
+---
+![](https://drive.google.com/file/d/1CwS4FDfBZxeK3wxHmkrGQQSV7hfufPkh/view?usp=sharing)
+
+### Criteria
+A project Laravel API for transport ecosystem and car trade
+
+### Business
+
+### Design note
+https://docs.google.com/spreadsheets/d/1Xot3v-jN1V-lzzLFVx4RLZ84CLgs-wRRBBGd6vaaTBA/edit?usp=sharing
+
+### Source
+[https://github.com/duycs/web-api-car-eco](https://github.com/duycs/web-api-car-eco){:.text-link}
+
+### Deployment
+- API: [https://carbin-web-app.herokuapp.com/](https://carbin-web-app.herokuapp.com/){:.text-link}
+
+### TODO
+- Make Documentation business
+- Make API document page
+- Develop client application
