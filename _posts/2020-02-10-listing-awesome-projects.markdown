@@ -10,6 +10,7 @@ thumbnail: https://lh3.googleusercontent.com/45XG8utgweCodQ7akcGy3_xHenwKINi5XB-
 
 # Criteria
 Listing awesome projects in many domains and stack technical to learning, researching.
+---
 
 ## Domain
 - Ecomerce
@@ -37,24 +38,43 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [Angular Docs](https://angular.io/docs){:.text-link}
 
 ## ReactJs
-- [Reactjs Docs](https://reactjs.org/docs/getting-started.html){:.text-link}
+- [ReactJs Docs](https://reactjs.org/docs/getting-started.html){:.text-link}
 - https://jasonwatmore.com/post/2019/04/06/react-jwt-authentication-tutorial-example
 - https://material-ui.com/api/button/
 
 ## VueJs
 - [VueJs Docs](https://vuejs.org/v2/guide/){:.text-link}
 
-## SQL
+## Database
+- [SQL Server Docs](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15){:.text-link}
+- [My SQL Docs](https://dev.mysql.com/doc/){:.text-link}
+- [Elastic Docs](https://www.elastic.co/guide/index.html){:.text-link}
+- [MongoDB Docs](https://docs.mongodb.com/){:.text-link}
 
-## Awesome systems
-- [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability){:.text-link}
+## Docker
+- [Docker Docs](https://docs.docker.com/){:.text-link}
 
-## Ecomerce
+## Message
+- [Redis Docs](https://redis.io/documentation){:.text-link}
+- [Kafka Docs](https://kafka.apache.org/documentation/){:.text-link}
+
+## AWS
+- [AWS Docs](https://docs.aws.amazon.com/){:.text-link}
+
+## Azure
+- [Azure Docs](https://docs.microsoft.com/en-us/azure/){:.text-link}
+
+## Google Cloud
+- [Colab](https://cloud.google.com/automl-tables/docs/notebooks?hl=vi){:.text-link}
+- [Firebase Docs](https://firebase.google.com/docs){:.text-link}
+
+## Awesome Projects
 - [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce){:.text-link}
-
-## Awesome pages
 - [Square Open Source](https://square.github.io/){:.text-link}
 - [Webflow](https://webflow.com/){:.text-link}
+
+## Awesome Collection
+- [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability){:.text-link}
 
 ## Hacking
 - [Proxyman](https://proxyman.io/){:.text-link}
