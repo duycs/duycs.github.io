@@ -7,8 +7,7 @@ categories: netcore
 thumbnail: https://wiki.matbao.net/wp-content/uploads/2019/08/cms-la-gi-vai-tro-cms-trong-chien-dich-marketing.jpg
 ---
 
-# Demo CMS
-A simple Content management system with Database first
+A simple Content management system with Database first.
 
 ### Criteria
 - Think about an idea then implement this
