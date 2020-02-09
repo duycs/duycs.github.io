@@ -17,6 +17,7 @@ $home-width: 1300px !default;
 }
 
 .home {
+  .thumb img {width: 100%;}
   .info {
     padding-top: 6vw;
     padding-bottom: 7vw;
