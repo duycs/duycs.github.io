@@ -1,0 +1,23 @@
+
+---
+layout: post
+title: The Translation
+description: A site inspired by ludwig.guru, help me and some friends study english and use english in correct context.
+date: 2018-10-10 10:59:00 +0700
+categories: AI
+thumbnail: https://lh3.googleusercontent.com/CpDx8h-Csn8xvYkIWeOmZUYfoebWB7fHm6MhE_9i5ZE1degRgdifFM1V2gKCkVPt_n8La09Loh8m3zJGuByQf-CgaGmDaVVskkd-rZwl8-mJvaXl4pZepvc2KUo3g8_K9cXouNReykPDUQqP7tfVdSIvOQzWHOfvgAg0Q1SDSi24nR93QHOEEBZdYxzKBoEiBdDoHsWlKsNDR1T2M4mEsPiwnuEvqN4SWwfX6CDcMVxbLe8cPXEpl6PsXlPTarG1LqFnX1wqqKGgB2duiIEr_3jD1H2GV8xw-csbp1rV5JxPtkVRXXhSDxwijzFpqhMt5YHIaASt2EcTgORJ65p1lF9JHVSpr0UD80F7hrYNd8CGOyH7R-04R60PnBkbHI5gWuzcm3reHpClwDoN5pmlY0TH_v-cgtNUV__WlIGFVLACvOSc9Fr-6-uyHueW1o1HZeFyb6ceOY5EJalbo0-9BMwmdQvCHMm6Ph9RrK66GEClDjx_0qwC7hBjlLFKsL9h-WGUdJheHo99oRMtKvPk4AL3S8titCCaNcaMUxvdrLkd0dkQ3l3v1b6v9RP_RqRS3K84DtO7Lhf-GVWqrD68ANHUqoWcAirowx2iEsksEsxA9A0NSiv8_eawbJgRAJKYlBKsj-dzUzZYpJVZm80Uq-YTHtFYPXgUS5vf6Go_U6uv3C-86H08y920WAS863yI67LK2saLeRwgD-9U_wdexW-P-Bz0Sz_dAUs2WbWA7hsePQt7=w425-h334-no
+---
+
+![](https://lh3.googleusercontent.com/CpDx8h-Csn8xvYkIWeOmZUYfoebWB7fHm6MhE_9i5ZE1degRgdifFM1V2gKCkVPt_n8La09Loh8m3zJGuByQf-CgaGmDaVVskkd-rZwl8-mJvaXl4pZepvc2KUo3g8_K9cXouNReykPDUQqP7tfVdSIvOQzWHOfvgAg0Q1SDSi24nR93QHOEEBZdYxzKBoEiBdDoHsWlKsNDR1T2M4mEsPiwnuEvqN4SWwfX6CDcMVxbLe8cPXEpl6PsXlPTarG1LqFnX1wqqKGgB2duiIEr_3jD1H2GV8xw-csbp1rV5JxPtkVRXXhSDxwijzFpqhMt5YHIaASt2EcTgORJ65p1lF9JHVSpr0UD80F7hrYNd8CGOyH7R-04R60PnBkbHI5gWuzcm3reHpClwDoN5pmlY0TH_v-cgtNUV__WlIGFVLACvOSc9Fr-6-uyHueW1o1HZeFyb6ceOY5EJalbo0-9BMwmdQvCHMm6Ph9RrK66GEClDjx_0qwC7hBjlLFKsL9h-WGUdJheHo99oRMtKvPk4AL3S8titCCaNcaMUxvdrLkd0dkQ3l3v1b6v9RP_RqRS3K84DtO7Lhf-GVWqrD68ANHUqoWcAirowx2iEsksEsxA9A0NSiv8_eawbJgRAJKYlBKsj-dzUzZYpJVZm80Uq-YTHtFYPXgUS5vf6Go_U6uv3C-86H08y920WAS863yI67LK2saLeRwgD-9U_wdexW-P-Bz0Sz_dAUs2WbWA7hsePQt7=w425-h334-no)
+
+
+A site inspired by ludwig.guru, help me and some friends study english and use english in correct context.
+Thanks my friend, @thang-nm! Who help me hack code!
+
+### Demo
+[http://ludwigz.herokuapp.com/](http://ludwigz.herokuapp.com/){:.text-link}
+
+
+### TODO
+- Reverse engineering
+- Make an AI powerful
