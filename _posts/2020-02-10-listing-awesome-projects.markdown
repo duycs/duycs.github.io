@@ -26,6 +26,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 
 ## .NET
 - [.Net Docs](https://docs.microsoft.com/en-us/dotnet/){:.text-link}
+- https://github.com/EduardoPires/EquinoxProject
 
 ## JAVA
 - [Java Docs](https://docs.oracle.com/javase/tutorial/){:.text-link}
