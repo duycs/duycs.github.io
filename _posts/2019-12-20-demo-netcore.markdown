@@ -156,7 +156,7 @@ HEROKU_APP_NAME: The name that you used when you were creating new Heroku applic
 
 ### 5. Coding and push to master branch, you will see *Continuous-integration*
 - Coding and push to master branch, after a few minutes, go to your Heroku application domain and enjoy your change!
-- The article's app can be found at: https://duycs-demo-net-core.herokuapp.com/
+- The article's app can be found at: [https://duycs-demo-net-core.herokuapp.com](https://duycs-demo-net-core.herokuapp.com){:.text-link}
 
 ---
 ### References
