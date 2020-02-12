@@ -10,7 +10,7 @@ thumbnail: https://lh3.googleusercontent.com/NBC2_AYoL0Gf547Y8rOwxLojlVpQU-24-di
 A social network for share and learn from each other, based on ideas between Medium, Quora and Stack Exchange socials, where everyone can write an long article or make a simple question, can become a teacher make tutorials or student study and make testing.
 I presented the idea and I named it [PostStudy](http://poststudy.azurewebsites.net/){:.text-link}
 
-## Develop Deployment
+## Develop deployment
 [http://poststudy.azurewebsites.net/](http://poststudy.azurewebsites.net/){:.text-link}
 
 ## Functions
@@ -27,7 +27,7 @@ I presented the idea and I named it [PostStudy](http://poststudy.azurewebsites.n
 #### You write a posts on custom editor
 ![](https://lh3.googleusercontent.com/H_OimFaBA7oo_nvOrQqYyHEp79mkU009nOdGbQIEMJzw2VqyDEw43RLbr8TV82f-F9cfGFHSyef7VhOE4eSU0ynlIwqx_IyWqmteIbLXpuU27SLKwrujAZWMsc9iHTcsYLh-sCbleDFaVWuH6JGx2etTnYQPbVy_wwVNw0GQib8r1uJKZ7kZglD-nhBth4clhHemetTVpNY0WeJu5DbCSq3eyT4mvZ3PgqAL-9hrt25x1vbPnHsqe4CFuTfu2M8cE9D7im09-tV2m6hmTchyCEhrSPTM2Ks31goDx6haw9sKDK2hdantfe2q6MvwVDzEjUinkb9PGlu8YB8VT6VGKMROpWO3jUdnrjdafSXoEWw2-TGEzzmQqQYX-PsJCr6RMvavLVF8RM9ZpLj-cnpYM4ecO7xvuGZwzgrtT0IXr02XbLTwttIyWanZreULGoxgyOpSYojNOWw3zE4GLLqMAukPT5PMBTrbQ7EAyf-DfO-0n2MzUd1H7IUeUJlSVOOSI2WBAkU2St3mCBtLG0VnU8VVZm_ch8kxTmtaIs5RuOCeRkEyn9HBt49tNiUtMxF1nggFB1CUZJARWJmaiq3rZ3JV3lpcEA3zNoKxGF2zcn7-B6K9ghL6nxv5_nLBoS2txn_qa8qmm7012yg7HQmCkeeBHcDLCDvpbqJUpPrUU0hWN-2oOelXOd9vxOIR7_yFAmCz_YJglDBWVNlHywLKpjVqM_8VVL_ULvxiiREXrNex0RNm=w1080-h880-no)
 
-#### /you read a posts detail
+#### You read a posts detail
 ![](https://lh3.googleusercontent.com/zijAn2qsHlFjZXKrWjCXDyzrIqugRxm8_AwAIU1TpbhCAUVO5U6HfxCqtPpyQdmmWkWE_gL4BFBKCWJDlWZi0Rf3kS3RexjkwK5M56S4I2A2GOmyVc-c7ncQGUuKwpSbg-FL9XA6K81nc8HL4pIld4y_s9erjJ3PCrkthg5_C2r1qp1VGtSH5q2Uja4Mi1GBcmx-oGyiWf_gbbxyFF_tjWykks-pA9_W2i__d06nqDFcL2smDa6gBgXjzBFGpDtFwyriqYaN5DYBrNv-ZY9hOYeHNQsicSm1MF5KVgj5aymj5m3fVdnJMteOiZqA4AUWc9bdd8nI2bE-qw93ZdIPFBW0-rHIF7zFUz9B_QegsxUDhcOi2LodyeohOUSur0iBK3g-5bsi7PhHNYNXaiJG49mFnUSDBkpXlyp9c5EXH9bv-ohkTsjFLzsC_uPgwCl90Q5wMfoqC5vzYr-mKUUlenDpVTDujz1Qjxf7I29zHnePNJQPg4MPCEsSiEYmJ5SkFp4-2nsaryYl0BXOSkzoaJybWbf3ZDa6g998B2KoIiOF6-bWeyVnY4C6oVVHXaw0BFSAQOS6Inqx1GCA44qSjgpdiqG-E4o74MqNv3UZgAVjtOqs6PWZF6TGBBdD4reoOets1sSfUmf_KIo2PF-Z-bdOEEy5NtAc7ZAqPtEh95KEjsZr89Qa3HG88XKRbgzzM7p6E24V5JE6iiwv_XekEFOa-PU0zar0lakGW--zXThy4bkw=w1080-h614-no)
 
 #### You ask anyone or view some questions
@@ -39,13 +39,15 @@ I presented the idea and I named it [PostStudy](http://poststudy.azurewebsites.n
 #### Your personal page
 ![](https://lh3.googleusercontent.com/XCABa81OKd2hgWK25FktTToITI2Kw4WcZgSzjfFQ0UEPsIUH-it0NvWmk2m8oJx5tGY0zdOS8_hTFgCaRuJ1eC6BikBVTzMHB-s8ChyWPqlocvvXJkPmTYoXh4lgh7ODAEx6sqf4v2UVHk1_iAaY897mmh0p3xekFclN3z3clhQIaSP4LzYz0wthGVm46vpAoH2y3SbuadKLSXpN9vtg8joiyISzNcXoLmMg1Bx4aPTZ8vGtMcLJ6uEEC_6uCXs-uHRa8t3YUa6sxrCLCVELdxsx-dERUGB0B_HKr7K8BptgsD2SahV6oWBWqAIUzrXUTljZuqkQCWoaIU9DBGjISxO2MX3JnV_wFskrewQSHGoKJXJxm0yPGF-Oh70wETrVvp6oy48hW4RFhPwFa7rp-Q4u2yTPkGYEU_bA5leYV5R8FahgP6h9W5aQEyrnRZQO7lR7hYPHDHEyN3fbhev6Ep8GHzMF26J4h7gTS6GuxL3HB0kbrJ_L4_r-IQnXzrITNDuQd-yIgaVGoATcPOV5ssXHNxgU_RLpO0LhKhbbFk8UHHY5LTlPOimhOE0E2Zto-Ag-MQ5vb3CpB8Q2zOWBtCq1k_IIAm80icnuqb9APsIjhIdBVcaq4AVZFQ9A7VD-Oe36Sx7pJi1FBiw3vW0XnIW1iakw5on5gSCErnRgJ6dsBoiPQDX8pT1kNQFiqMdliK-VvudNYdK2XBl3r7D513DzBtB3F07CWRPgsWyRzI7TkLpf=w357-h310-no)
 
+---
+
 #### You create a tutorial
 
 #### You create a testing
 
 #### You make a testing
 
-
+---
 ### TODO
 - Fix bugs
 - Development more functions
