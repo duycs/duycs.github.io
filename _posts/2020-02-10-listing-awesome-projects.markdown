@@ -73,6 +73,9 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [Machine leaning coban](https://machinelearningcoban.com/){:.text-link}
 - [Thang Luong Google Brain](https://research.google/people/105176/){:.text-link}
 
+## Clean structure
+- [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html){:.text-link}
+
 ## Awesome Projects
 - [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce){:.text-link}
 - [Square Open Source](https://square.github.io/){:.text-link}
