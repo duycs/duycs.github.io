@@ -21,8 +21,14 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - Social
 
 ## Book
-- [Domain Driven Design](https://drive.google.com/file/d/1aGqTRfGDbKAKPgxaZozpeR0QaPSdU2N4/view?usp=sharing){:.text-link} _ Eric Evans
-- [Designing Web APIs](https://drive.google.com/file/d/142lqveMGzB1UTgFefXHMlzqhU9K_kHNt/view?usp=sharing){:.text-link} _ Brenda Jin, Saurabh Sahni & Amir Shevat
+- [Clean code](https://drive.google.com/file/d/1qmL_nOjimgX-yXNG-C_7pOsepQjcCNM2/view?usp=sharing){:.text-link} _Robert C. Martin Series.
+- [Head first Design Pattern](https://drive.google.com/file/d/11yMNIgXWuAjrB2zjZxZ3-bQOjdG88mgp/view?usp=sharing){:.text-link} _Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
+- [Clean Architecture](https://drive.google.com/file/d/1Aa5cSAu17PewMdr9jVhEJmWdkivdTPlB/view?usp=sharing){:.text-link} _Robert C. Martin Series.
+- [Domain Driven Design](https://drive.google.com/file/d/1aGqTRfGDbKAKPgxaZozpeR0QaPSdU2N4/view?usp=sharing){:.text-link} _Eric Evans
+- [Designing Web APIs](https://drive.google.com/file/d/142lqveMGzB1UTgFefXHMlzqhU9K_kHNt/view?usp=sharing){:.text-link} _Brenda Jin, Saurabh Sahni & Amir Shevat.
+- [Building microservice](https://drive.google.com/file/d/1G1CcNHnnOQMjO4SKNA2QDTjuiWlDxHSD/view?usp=sharing){:.text-link} _Sam Newman.
+- [Machine Leaning Cơ bản](){:.text-link} _Tiep Vu.
+- [Think python](https://drive.google.com/file/d/1XT8B9SOQAOfyzeVpSjlyr1JswpIda12H/view?usp=sharing){:.text-link} _...
 
 ## .NET
 - [.Net Docs](https://docs.microsoft.com/en-us/dotnet/){:.text-link}
@@ -45,6 +51,11 @@ Listing awesome projects in many domains and stack technical to learning, resear
 
 ## VueJs
 - [VueJs Docs](https://vuejs.org/v2/guide/){:.text-link}
+
+## Go lang
+- [Go lang](https://tour.golang.org/moretypes/1){:.text-link}
+- https://tour.golang.org/moretypes/1
+- https://github.com/eminetto/clean-architecture-go
 
 ## Database
 - [SQL Server Docs](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15){:.text-link}
@@ -78,8 +89,11 @@ Listing awesome projects in many domains and stack technical to learning, resear
 
 ## Awesome Projects
 - [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce){:.text-link}
-- [Square Open Source](https://square.github.io/){:.text-link}
 - [Webflow](https://webflow.com/){:.text-link}
+
+## Awwsome Opensource
+- [Square Open Source](https://square.github.io/){:.text-link}
+- [Linagora](https://github.com/linagora){:.text-link}
 
 ## Awesome Collection
 - [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability){:.text-link}
