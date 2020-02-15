@@ -41,6 +41,13 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [Django Docs](https://docs.djangoproject.com/en/3.0/){:.text-link}
 - https://opensource.com/article/19/5/python-3-default-mac
 
+## NodeJs
+- [NodeJs Docs](https://nodejs.org/api/)
+- [Express Js guide](https://expressjs.com/en/guide/routing.html)
+
+## Socket-io
+- [Socket-io Docs](https://socket.io/docs/)
+
 ## Angular
 - [Angular Docs](https://angular.io/docs){:.text-link}
 
@@ -48,6 +55,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [ReactJs Docs](https://reactjs.org/docs/getting-started.html){:.text-link}
 - https://jasonwatmore.com/post/2019/04/06/react-jwt-authentication-tutorial-example
 - https://material-ui.com/api/button/
+- https://chakra-ui.com/tooltip
 
 ## VueJs
 - [VueJs Docs](https://vuejs.org/v2/guide/){:.text-link}
@@ -90,6 +98,8 @@ Listing awesome projects in many domains and stack technical to learning, resear
 ## Awesome Projects
 - [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce){:.text-link}
 - [Webflow](https://webflow.com/){:.text-link}
+- https://chakra-ui.com/
+- [Socket-io](https://github.com/socketio/socket.io)
 
 ## Awesome Opensource/Collection
 - [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability){:.text-link}
