@@ -8,40 +8,40 @@ thumbnail: https://lh3.googleusercontent.com/ZGBwZnk0t03GM2jBoAATxVX4_gq7rjOKcUw
 ---
 [](https://lh3.googleusercontent.com/ZGBwZnk0t03GM2jBoAATxVX4_gq7rjOKcUwV09Bh3lU0qxDfuAgFagaCcFIhkznvFzyn7Wd9Sjfvn1ZtIuZn_-nWhLG8SmYdlO1jgj3XOIGc_JQIJKxEaTLmKkmjQwYy-a5fQmMuLnz_78bnvGz9DQpj8NqbSFiintD96qpr9__lyZZdumowy9oNfe5ztcHbHXi7TirKK-7vUCJqNeej2xCCoLq_l7HmBTqn542LdzOPES1mkl5CZjRr77inefIhynQuyPDVw6ZQYCgWQiMYi76SV5r_SRQNN_4swes3Y12PGoihx6--_ZQ-36JuApBhS17ktjuPJikx84ZFmAjejhct9xm7OsHi8lt-YbC47j0szJ2D0uq-tWV1w4H0_pCOrYNY-soRFhv4CT6c5lqubueZsH3W2cN1PCZI2n2sApz-r6aPDpekBdMu57NY547Cr2hJWdFMrMpxqbdKl3RNSusnrvBFqMkDbA1FFPzZyE77WzindLQ6ie13K_4q8InOSqPrwaSUwrgi-9RVORvQ5-490fd2rTUqhvNovCFhL775WFaiPucVr1TL60WYVFInsVOxmBNzYFhWd7NqVCYyJgkwSEvX-acwUnwAW_kY7r_n1IiX6IwAz8uZ2cC9FG_AJ_FI0MiGge67cjUa3rHLfU0LqcMaKMaYcy3z4qNI1VLiiu9rsxSxq-fvqNdJWJwCUcbByzPO_Ryl-UsxOxDuVAmTM_WQe-SnQRvCIoSBNI4P4F2Y=w797-h423-no)
 
-##I. Git branch strategy:
-###1. ***master*** branch
+## I. Git branch strategy:
+### 1. ***master*** branch
 - this is main branch, fist commit to this branch
 - this branch always be merged, not merge to any branch
 - be up to date
 
-###2. ***develop*** branch
+### 2. ***develop*** branch
 - main branch for develop
 - this branch need qualites same as master branch
 - sometime merge to master branch
 
-###3. ***feature\[feature-name]*** branch
+### 3. ***feature\[feature-name]*** branch
 - sub branch for a new feature
 - get new from develop branch
 - finish rebase to develop branch or merge to develop branch
 
-###4. ***bugfix\[bug-name]*** branch:
+### 4. ***bugfix\[bug-name]*** branch:
 - sub branch for fix each bug
 - get new from master branch
 - after pass test then merge to develop branch
 
-###5. ***release\[1.x]*** branch
+### 5. ***release\[1.x]*** branch
 - branch for deploy stage and production 
 - get new from master branch 
 - have description of features and bugs is resolved
 - after fixed and pass testing then merge develop branch and master branch
 
-###6. hotfix\[hotfix-name] branch
+### 6. hotfix\[hotfix-name] branch
 - sub branch for hot fix bug of release/stage/production branch
 - get new from master branch
 - after fixed and pass testing then merge to master and develop branch
 
 ---
-####Questions?
+#### Questions?
 ***- what different of develop branch with other branch?
 + master branch stores the official release history
 + develop branch serves as an integration branch for features
@@ -50,47 +50,71 @@ thumbnail: https://lh3.googleusercontent.com/ZGBwZnk0t03GM2jBoAATxVX4_gq7rjOKcUw
 + bugfix after testing, hotfix after release or deploy stage/production.
 ---
 
-##II. Git account setting
+## II. Git account setting
 - check git version: 
-```git --version```
+```
+git --version
+```
 
 - set user name: 
-```git config --global user.name "[user-name]"```
+```
+git config --global user.name "[user-name]"
+```
 
 - show user name: 
-```git config --global user.name```
+```
+git config --global user.name
+```
 
 - caching git: 
-```git config --global credential.helper wincred```
+```
+git config --global credential.helper wincred
+```
 
-##III. Git command on repository
-###1. show branch
+## III. Git command on repository
+### 1. show branch
 - show all branch on local checked out: 
-```git branch```
+```
+git branch
+```
 
 - show all branch on remote and local: 
-```git branch -a```
+```
+git branch -a
+```
 
 - show file on branch: 
-```git ls-tree -r [branch-name]```
+```
+git ls-tree -r [branch-name]
+```
 
-###2. checkout a branch
+### 2. checkout a branch
 - checkout an exist branch: 
-```git checkout [branch-name]```
+```
+git checkout [branch-name]
+```
 
 - checkout a new branch: 
-```git checkout -b [branch-name]```
+```
+git checkout -b [branch-name]
+```
 
-###3. fetch from branch
+### 3. fetch from branch
 - fetch from current branch:
-```git fetch```
+```
+git fetch
+```
 
 - fetch from a branch:
-```fetch [branch-name]```
+```
+fetch [branch-name]
+```
 
-###4. create branch
+### 4. create branch
 - create new branch and checkout this in local repository: 
-```git checkout -b [branch-name]```
+```
+git checkout -b [branch-name]
+```
 
 - create new branch on local and push it to remote repository: 
 ```
@@ -98,35 +122,53 @@ git checkout -b [branch-name]
 git push [branch-name] [branch-remote-name]
 ```
 
-###5. add files change
+### 5. add files change
 - commit a file: 
-```git add -[file-name]```
+```
+git add -[file-name]
+```
 
 - commit all files, file new, file exist: 
-```git add .```
+```
+git add .
+```
 
 - commit all files, file exist and file is deleted: 
-```git add . -u```
+```
+git add . -u
+```
 
 - commit all files, file new, file exist and file is deleted: 
-```git add . -A```
+```
+git add . -A
+```
 
-###6. unstage file
+### 6. unstage file
 - reset HEAD cusor: 
-```git reset HEAD```
+```
+git reset HEAD
+```
 
 - undo add all files: 
-```git reset```
+```
+git reset
+```
 
 - undo add a file: 
-```git reset --[file-name]```
+```
+git reset --[file-name]
+```
 
-###7. discard file
+### 7. discard file
 - checkout a file: 
-```git checkout --[file-name]```
+```
+git checkout --[file-name]
+```
 
 - checkout all files: 
-```git checkout -- .```
+```
+git checkout -- .
+```
 
 - discard all change and clean:
 ```
@@ -135,66 +177,100 @@ git checkout .
 git clean -fdx
 ```
 
-###8. remove a file on staging area
-```git rm --cached [file-name]```
+### 8. remove a file on staging area
+```
+git rm --cached [file-name]
+```
 
-###9. commit change
+### 9. commit change
 - commit with message: 
-```git commit -m "sort description"```
+```
+git commit -m "sort description"
+```
 
 - add and commit with message: 
-```git commit -a -m "sort description"```
+```
+git commit -a -m "sort description"
+```
 
-###10. push change
+### 10. push change
 - push change to origin on current branch: 
-```git push [remote-name] : [branch-name]```
+```
+git push [remote-name] : [branch-name]
+```
 
 - if status is checkout a branch-name and we want to push this branch: 
-```git push```
+```
+git push
+```
 
 - push a local branch to upstream of parent branch on remote: 
-```git push --set-upstream [remote-name] [branch-name]```
+```
+git push --set-upstream [remote-name] [branch-name]
+```
 
 - if we want to push current branch: 
-```git push -u [remote-name] HEAD```
+```
+git push -u [remote-name] HEAD
+```
 
 - push single tag: 
-```git push [remote-branch] [tag-name]```
+```
+git push [remote-branch] [tag-name]
+```
 
 - push all tags: 
-```git push [remote-branch] --tags```
+```
+git push [remote-branch] --tags
+```
 
-###11. delete branch
+### 11. delete branch
 - delete branch on local: 
-```git branch -d [branch_name]```
+```
+git branch -d [branch_name]
+```
 
 - delete branch on remote: 
-```git push origin --delete [branch_name]```
+```
+git push origin --delete [branch_name]
+```
 
-###12. rename branch
+### 12. rename branch
 - rename your local branch, if you are on local branch: 
-```git branch -m [new-name]```
+```
+git branch -m [new-name]
+```
 
 - if you are on a different branch: 
-```git branch -m [old-name] [new-name]```
+```
+git branch -m [old-name] [new-name]
+```
 
 - delete the old remote branch and push the new branch: 
-```git push origin :[old-name] [new-name]```
+```
+git push origin :[old-name] [new-name]
+```
 
 - reset the upstream branch for the new branch local branch: 
-```git push origin -u [new-branch]```
+```
+git push origin -u [new-branch]
+```
 
-###13. rebase branch, rebase a feature branch to master branch
+### 13. rebase branch, rebase a feature branch to master branch
 ```
 git checkout [feature\branch-name]
 git rebase to master
 ```
 
 - if conflic => resolve conflic => commit file after resolve => push to feature/branch-name
-```git rebase --continue```
+```
+git rebase --continue
+```
 
 - if conflic => if not resolve then skip step
-```git rebase --skip```
+```
+git rebase --skip
+```
 
 - if all point are rebase, ready to merge new commit to master
 ```
@@ -205,7 +281,7 @@ git merge feature/branch-name
 - after merge all commit of feature/branch-name on head of master
 - if pass QA test, remove features/branch-name
 
-###14. merge branch
+### 14. merge branch
 - merge a feature branch to master branch: 
 ```
 git checkout master
@@ -220,12 +296,16 @@ git branch -d feature
 git push origin develop
 ```
 
-###15. tag
+### 15. tag
 - add tag: 
-```git tag -a [tag-name] -m "[tag-description]"```
+```
+git tag -a [tag-name] -m "[tag-description]"
+```
 
 - show info of tag: 
-```git show tag [tag-name]```
+```
+git show tag [tag-name]
+```
 
 - show list tag: 
 ```
@@ -234,73 +314,111 @@ git tag -l
 ```
 
 - show list tag like character: 
-```git tag -l "[v1.0*]"```
+```
+git tag -l "[v1.0*]"
+```
 
 - push and share tag: 
-```git push origin [tag-name]```
+```
+git push origin [tag-name]
+```
 
 - push and share not aready tags: 
-```git push origin --tags```
+```
+git push origin --tags
+```
 
-###16. log infomation
+### 16. log infomation
 - log infomation commit: 
-```git log --oneline```
+```
+git log --oneline
+```
 
 - show infomation commit of HEAD cusor: 
-```git reflog```
+```
+git reflog
+```
 
-###17. reset a commit
+### 17. reset a commit
 - reset all change and not commit at HEAD cusor: 
-```git reset --hard HEAD```
+```
+git reset --hard HEAD
+```
 
 - reset hard, is remove commit in remote and working space, very clean: 
-```git reset --hard [commit-SHA1]```
+```
+git reset --hard [commit-SHA1]
+```
 
 - reset soft, remove commit but keep change of this commit: 
-```git reset --soft [commit-SHA1]```
+```
+git reset --soft [commit-SHA1]
+```
 
 - reset mixed: 
-```git reset --mixed [commit-SHA1]```
+```
+git reset --mixed [commit-SHA1]
+```
 
 - reset merge: 
-```git reset --merge [commit-SHA1]```
+```
+git reset --merge [commit-SHA1]
+```
 
 - reset keep: 
-```git reset --keep [commit-SHA1]```
+```
+git reset --keep [commit-SHA1]
+```
 
-###18. recover a reseted commit
+### 18. recover a reseted commit
 - recover a reseted commit
-```git branch recover-branch [commit-SHA1]```
+```
+git branch recover-branch [commit-SHA1]
+```
+
 - can recover file added when reset commit occour: 
 ```
 git fsck --full
 git show [commit-SHA1]
 ```
+
 - show change infomation, can apply change file again
 
-###19. revert a commit
+### 19. revert a commit
 - undo a merge commit and want to keep history commit: 
-```git revert HEAD```
+```
+git revert HEAD
+```
 
-###20. amend a commit
+### 20. amend a commit
 - you commied a file then if you want add a new file change in a commited: 
-```git commit --amend --no-edit```
+```
+git commit --amend --no-edit
+```
 
-###21. stash
+### 21. stash
 - when you checkouting a branch and have a change, git stash save a change when you want to checkout another branch: 
-```git stash save```
+```
+git stash save
+```
 
 - show list stash: 
-```git stash list```
+```
+git stash list
+```
 
 - delete a stash, n is stash number:
-```git stash pop stash@{n}```
+```
+git stash pop stash@{n}
+```
 
 - delete all stash: git stash clear
 
-###22. git flow, this is template base on `Vincent Driessen`
+### 22. git flow, this is template base on `Vincent Driessen`
 - init a git flow: 
-```git flow init```
+```
+git flow init
+```
 
 - git flow for a feature:
 ```
@@ -317,18 +435,20 @@ git flow release publish RELEASE
 git flow release track RELEASE
 git flow release finish RELEASE
 ```
+
 - git flow for a hotfix:
 ```
 git flow hotfix start VERSION [base-name]
 git flow hotfix finish VERSION
 ```
 
-###23. cherry-pick
+### 23. cherry-pick
 ```
 git add -[branch-name-A]
 git commit -m "[fix-name]"
 git checkout -[branch-name-B]
 git cherry-pick [branch-name-A]
 ```
+
 ***Questions?
 - what are different between reset and revert commit?
