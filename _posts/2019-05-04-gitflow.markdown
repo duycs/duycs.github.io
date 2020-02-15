@@ -8,7 +8,7 @@ thumbnail: https://lh3.googleusercontent.com/ZGBwZnk0t03GM2jBoAATxVX4_gq7rjOKcUw
 ---
 [](https://lh3.googleusercontent.com/ZGBwZnk0t03GM2jBoAATxVX4_gq7rjOKcUwV09Bh3lU0qxDfuAgFagaCcFIhkznvFzyn7Wd9Sjfvn1ZtIuZn_-nWhLG8SmYdlO1jgj3XOIGc_JQIJKxEaTLmKkmjQwYy-a5fQmMuLnz_78bnvGz9DQpj8NqbSFiintD96qpr9__lyZZdumowy9oNfe5ztcHbHXi7TirKK-7vUCJqNeej2xCCoLq_l7HmBTqn542LdzOPES1mkl5CZjRr77inefIhynQuyPDVw6ZQYCgWQiMYi76SV5r_SRQNN_4swes3Y12PGoihx6--_ZQ-36JuApBhS17ktjuPJikx84ZFmAjejhct9xm7OsHi8lt-YbC47j0szJ2D0uq-tWV1w4H0_pCOrYNY-soRFhv4CT6c5lqubueZsH3W2cN1PCZI2n2sApz-r6aPDpekBdMu57NY547Cr2hJWdFMrMpxqbdKl3RNSusnrvBFqMkDbA1FFPzZyE77WzindLQ6ie13K_4q8InOSqPrwaSUwrgi-9RVORvQ5-490fd2rTUqhvNovCFhL775WFaiPucVr1TL60WYVFInsVOxmBNzYFhWd7NqVCYyJgkwSEvX-acwUnwAW_kY7r_n1IiX6IwAz8uZ2cC9FG_AJ_FI0MiGge67cjUa3rHLfU0LqcMaKMaYcy3z4qNI1VLiiu9rsxSxq-fvqNdJWJwCUcbByzPO_Ryl-UsxOxDuVAmTM_WQe-SnQRvCIoSBNI4P4F2Y=w797-h423-no)
 
-##I. Git branch strategy:
+I. Git branch strategy:
   1. master branch
     - this is main branch, fist commit to this branch
     - this branch always be merged, not merge to any branch
@@ -47,13 +47,13 @@ thumbnail: https://lh3.googleusercontent.com/ZGBwZnk0t03GM2jBoAATxVX4_gq7rjOKcUw
     - what different of bugfix branch with hotfix branch?
       + bugfix after testing, hotfix after release or deploy stage/production. 
   
-##II. Git account setting
+II. Git account setting
   - check git version: git --version
   - set user name: git config --global user.name "[user-name]"
   - show user name: git config --global user.name
   - caching git: git config --global credential.helper wincred
   
-##III. Git command on repository
+III. Git command on repository
   1. show branch
     - show all branch on local checked out: git branch
     - show all branch on remote and local: git branch -a
