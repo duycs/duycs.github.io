@@ -91,12 +91,11 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce){:.text-link}
 - [Webflow](https://webflow.com/){:.text-link}
 
-## Awwsome Opensource
-- [Square Open Source](https://square.github.io/){:.text-link}
-- [Linagora](https://github.com/linagora){:.text-link}
-
-## Awesome Collection
+## Awesome Opensource/Collection
 - [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability){:.text-link}
+- [Awesome VueJs](https://github.com/vuejs/awesome-vue){:.text-link}
+- [Linagora](https://github.com/linagora){:.text-link}
+- [Square Open Source](https://square.github.io/){:.text-link}
 
 ## Hacking
 - [Proxyman](https://proxyman.io/){:.text-link}
