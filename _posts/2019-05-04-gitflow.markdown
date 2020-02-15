@@ -42,12 +42,14 @@ thumbnail: https://lh3.googleusercontent.com/ZGBwZnk0t03GM2jBoAATxVX4_gq7rjOKcUw
 
 ---
 #### Questions?
-- ***What different of develop branch with other branch?
-+ master branch stores the official release history
-+ develop branch serves as an integration branch for features
+- ***What different of develop branch with other branch?***
++ master branch stores the official release history.
++ develop branch serves as an integration branch for features.
++
 
-- ***What different of bugfix branch with hotfix branch?
+- ***What different of bugfix branch with hotfix branch?***
 + bugfix after testing, hotfix after release or deploy stage/production.
++
 ---
 
 ## II. Git account setting
@@ -451,8 +453,9 @@ git checkout -[branch-name-B]
 git cherry-pick [branch-name-A]
 ```
 
-***Questions?
-- ***What are different between reset and revert commit?
+
+***Questions?***
+- ***What are different between reset and revert commit?***
 
 ---
 ### References
