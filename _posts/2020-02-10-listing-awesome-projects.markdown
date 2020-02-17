@@ -91,6 +91,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 ## AI
 - [Machine leaning coban](https://machinelearningcoban.com/){:.text-link}
 - [Thang Luong Google Brain](https://research.google/people/105176/){:.text-link}
+- https://medium.com/free-code-camp/facial-emotion-recognition-develop-a-c-n-n-and-break-into-kaggle-top-10-f618c024faa7
 
 ## Clean structure
 - [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html){:.text-link}
@@ -99,7 +100,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce){:.text-link}
 - [Webflow](https://webflow.com/){:.text-link}
 - https://chakra-ui.com/
-- [Socket-io](https://github.com/socketio/socket.io)
+- [Socket-io](https://github.com/socketio/socket.io){:.text-link}
 
 ## Awesome Opensource/Collection
 - [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability){:.text-link}
