@@ -75,6 +75,11 @@ git config --global user.name
 git config --global credential.helper wincred
 ```
 
+- push with new account need to use this command then submit new authentication:
+```
+git push origin master
+```
+
 ## III. Git command on repository
 ### 1. show branch
 - show all branch on local checked out: 
