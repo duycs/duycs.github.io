@@ -108,6 +108,11 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [Linagora](https://github.com/linagora){:.text-link}
 - [Square Open Source](https://square.github.io/){:.text-link}
 
+## Awesome tools
+- [Airtable](https://airtable.com/){:.text-link}
+- [Asana](https://asana.com/){:.text-link}
+- [Slack](https://slack.com/){:.text-link}
+
 ## Hacking
 - [Proxyman](https://proxyman.io/){:.text-link}
 - [Hpper](https://www.hopperapp.com/download.html){:.text-link}
