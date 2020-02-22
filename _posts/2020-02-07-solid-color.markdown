@@ -32,74 +32,75 @@ One should "depend upon abstractions, [not] concretions."
 
 ---
 ## Remember life
-#### 1. There are three things that make people soon regret
+### 1. There are three things that make people soon regret
 - Curiosity is not the right thing
 - Likes making it off
 - Make a decision in anger
 
-#### 2. There are 3 things you have to treasure
+### 2. There are 3 things you have to treasure
 - Time
 - Opportunity
 - The people which you love and love you
 
-#### 3. There are 3 things that lead you to success
+### 3. There are 3 things that lead you to success
 - Life skills
 - Advanced skill
 - Discipline yourself
 
-#### 4. There are 3 things to practice every day
+### 4. There are 3 things to practice every day
 - Live science
 - Reading books
 - Learn new foreign languages
 
-#### 5. There are 3 factors to help you update your knowledge best
+### 5. There are 3 factors to help you update your knowledge best
 - Good book
 - Good teacher, talented friend
 - Self-study spirit
 
---
+---
 ## Human happiness in countries
-#### Italia
+### Italia
 Dressed, impressing people and living up to the present of the Italians are called ***bella figura***, that meaning "beautiful picture".
 
-#### Ireland
+### Ireland
 Irish people are open-minded and talkative. They like being part of the collective. Want to be happy like Irish people, join in activities with the collective, such as soccer with friends, camping, singing ...
 
-#### India
+### India
 Indians appreciate flexibility and resourcefulness. They can create new products from old items or ordinary materials.
 
-#### Sweden
+### Sweden
 ***Lagom***. Minimalism and conscious consumption are things that Swedes value.
 Their concept of happiness is briefly described as "not too much, not too little, just barely".
 
-#### Turkey
+### Turkey
 In Turkey, people appreciate the meticulousness and prudence. ***Keyif*** is the word they use to describe happiness when talking about the state of enjoying the breath of life in a profound way.
 
-#### Japan
+### Japan
 ***Wabi-sabi*** is the Japanese philosophy of a different way of looking at life, about how to honor the beauty of the imperfections around us. They see the beauty in old items, broken plates, defects that gradually show up over the years.
 
-#### Scotland
+### Scotland
 Scottish people appreciate their culture. They like to walk around the medieval castles and enjoy traditional dishes that are passed down from generation to generation.
 
-#### Switzerland
+### Switzerland
 From a Swiss perspective, you need success to be happy. If you feel happy about achieving your goals in your job or your hobbies, you must be a ***Federerism***.
 
-#### Danish
+### Danish
 Danes are not workaholics but they have a special attitude to the job. The term ***"arbejdsglaede"*** in Danish means "happiness and pleasure from work and knowing that you are a good employee".
 
-#### Hawaii
+### Hawaii
 Sharing with everyone is the beauty of Hawaiians for many generations. Learn how to share and give to make friends and family happy.
 
-#### Norwegian
+### Norwegian
 The Norwegian ***koselig*** concept expresses the desire to have a comfortable home. To feel the happiness of the Norwegian way, you just need to create a cozy space like family, organize celebratory parties with friends and relatives.
 
-#### Uganda
+### Uganda
 Name ***Hakuna Matata***, the soundtrack to "Lion King" is a word that means "no problem". This is the Ugandan philosophy of life.
 
-#### France
+### France
 The French live by the principle of ***less and slower***. They do not try to do many things in a short time.
 
 ---
 ## References
 - https://en.wikipedia.org/wiki/SOLID
 - https://cafef.vn/vong-quanh-the-gioi-de-bo-tui-cong-thuc-hanh-phuc-cua-cac-quoc-gia-thuy-dien-voi-triet-ly-song-toi-gian-con-phap-voi-nguyen-tac-it-hon-va-cham-hon-20200216145926548.chn?fbclid=IwAR1K0IuXZWZb5FwowvmMGupeMqo9L9Gjl9GRc7POhGKC127kF-8n32KvvPs
+- 
