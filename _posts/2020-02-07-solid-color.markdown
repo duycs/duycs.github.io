@@ -56,6 +56,18 @@ One should "depend upon abstractions, [not] concretions."
 - Good book
 - Good teacher, talented friend
 - Self-study spirit
+---
+
+## Emotional Quiotient
+- Do not like to complain or blame
+- Nurturing passion
+- Learn to be tolerant and generous
+- Know how to communicate and exchange smoothly
+- Enthusiastically praise others
+- Always keep in a good mood
+- Have a habit of listening and observing
+- There is a sense of responsibility
+- Always improve yourself day by day
 
 ---
 ## Human happiness in countries
