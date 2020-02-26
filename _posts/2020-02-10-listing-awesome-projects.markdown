@@ -113,6 +113,10 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [Asana](https://asana.com/){:.text-link}
 - [Slack](https://slack.com/){:.text-link}
 
+## Skill testing tools
+- [https://www.testdome.com](https://www.testdome.com)
+- [https://www.hackerrank.com](https://www.hackerrank.com)
+
 ## Hacking
 - [Proxyman](https://proxyman.io/){:.text-link}
 - [Hpper](https://www.hopperapp.com/download.html){:.text-link}
