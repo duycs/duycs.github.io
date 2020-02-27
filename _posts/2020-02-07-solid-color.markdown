@@ -70,6 +70,17 @@ One should "depend upon abstractions, [not] concretions."
 - Always improve yourself day by day
 
 ---
+
+## CEO Indian
+- Accept the event
+- Observe anytime anywhere
+- It is all about proportions and figures
+- STEM (Science, Technology, Engineering, Mathematics)
+- Diversity
+- Time
+- 
+
+---
 ## Human happiness in countries
 ### Italia
 Dressed, impressing people and living up to the present of the Italians are called ***bella figura***, that meaning "beautiful picture".
