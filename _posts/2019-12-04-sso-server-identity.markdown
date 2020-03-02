@@ -2,7 +2,7 @@
 layout: post
 title: SSO Server Identity
 description: Create a Single sign on authentication server, support development many applications with only once sign on.
-date: 2020-12-04 10:59:00 +0700
+date: 2019-12-04 10:59:00 +0700
 categories: demo
 thumbnail: https://miro.medium.com/max/640/1*bfCVhwUWVB1Y6Ju4OB7sjw.png
 ---
@@ -42,21 +42,11 @@ PRIMARY KEY (`MigrationId`) );
 <pre><code>dotnet ef database update --context AppIdentityDbContext</code></pre>
 <pre><code>dotnet ef database update --context PersistedGrantDbContext</code></pre>
 
-### Force delete all table if need
-```
-SET FOREIGN_KEY_CHECKS = 0; 
-SET @tables = NULL;
-SELECT GROUP_CONCAT(table_schema, '.', table_name) INTO @tables
-  FROM information_schema.tables 
-  WHERE table_schema = 'AuthServer'; -- specify DB name here.
-SET @tables = CONCAT('DROP TABLE ', @tables);
-PREPARE stmt FROM @tables;
-EXECUTE stmt;
-DEALLOCATE PREPARE stmt;
-SET FOREIGN_KEY_CHECKS = 1; 
-```
+### TODO
+- Fix bugs
+- 
 
----x
+---
 ### References
 - https://en.wikipedia.org/wiki/Single_sign-on
 - https://github.com/mmacneil/AngularASPNETCoreOAuth
