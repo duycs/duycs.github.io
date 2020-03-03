@@ -65,6 +65,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [Go lang](https://tour.golang.org/moretypes/1){:.text-link}
 - https://tour.golang.org/moretypes/1
 - https://github.com/eminetto/clean-architecture-go
+- [https://iris-go.com/](https://iris-go.com/)
 
 ## Database
 - [SQL Server Docs](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15){:.text-link}
