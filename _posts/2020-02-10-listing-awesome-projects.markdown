@@ -97,6 +97,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 
 ## Clean structure
 - [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html){:.text-link}
+- https://www.ben-morris.com/category/design-patterns/
 
 ## Awesome Projects
 - [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce){:.text-link}
