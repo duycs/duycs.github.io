@@ -29,3 +29,28 @@ This project listing tutorials help guide anyone in need. You can study, share a
 - Tutorial_x/x/x: Use an ORM and implement CQRS.
 
 - Tutorial_x/x/x: ...
+
+
+## My github projects
+- [https://github.com/duycs/duycs.github.io](https://github.com/duycs/duycs.github.io){:.text-link}
+- [https://github.com/duycs/demo-netcore](https://github.com/duycs/demo-netcore){:.text-link}
+- [https://github.com/duycs/demo-django](https://github.com/duycs/demo-django){:.text-link}
+- [https://github.com/duycs/sso-server](https://github.com/duycs/sso-server){:.text-link}
+- [https://github.com/duycs/demo-cms](https://github.com/duycs/demo-cms){:.text-link}
+- [https://github.com/duycs/web-api-car-eco](https://github.com/duycs/web-api-car-eco){:.text-link}
+- [https://github.com/duycs/web-api-book-library](https://github.com/duycs/web-api-book-library){:.text-link}
+- [https://github.com/duycs/demo-angular](https://github.com/duycs/demo-angular){:.text-link}
+- [https://github.com/duycs/demo-vuejs](https://github.com/duycs/demo-vuejs){:.text-link}
+- [https://github.com/duycs/web-app-book-library](https://github.com/duycs/web-app-book-library){:.text-link}
+- [https://github.com/duycs/demo-chrome-extension](https://github.com/duycs/demo-chrome-extension){:.text-link}
+- [https://github.com/duycs/demo-reactjs](https://github.com/duycs/demo-reactjs){:.text-link}
+- [https://github.com/duycs/demo-go](https://github.com/duycs/demo-go){:.text-link}
+- [https://github.com/duycs/QAP4](https://github.com/duycs/QAP4){:.text-link}
+- [https://github.com/duycs/sample-ai](https://github.com/duycs/sample-ai){:.text-link}
+- [https://github.com/duycs/demo-nodejs](https://github.com/duycs/demo-nodejs){:.text-link}
+- [https://github.com/duycs/sample-design-pattern](https://github.com/duycs/sample-design-pattern){:.text-link}
+- [https://github.com/duycs/web-api-user-domain](https://github.com/duycs/web-api-user-domain){:.text-link}
+- [https://github.com/duycs/sample-algorithms](https://github.com/duycs/sample-algorithms){:.text-link}
+- [https://github.com/duycs/app-chat-bot-facebook](https://github.com/duycs/app-chat-bot-facebook){:.text-link}
+- [https://github.com/duycs/demo-domain-driven-design](https://github.com/duycs/demo-domain-driven-design){:.text-link}
+- [](){:.text-link}
