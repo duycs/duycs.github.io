@@ -9,9 +9,11 @@ thumbnail: https://lh3.googleusercontent.com/oG8OLqOngXm1h64lKFtheGJjhqlYKLRRY8M
 
 ![](https://lh3.googleusercontent.com/oG8OLqOngXm1h64lKFtheGJjhqlYKLRRY8M4K7xmOeE63vWdsKl3Ytf_pcjW4tBjuglNNc72PPj9eahX00FctpEtaVMrBGz3PKEoPadalpH9WJpFpS_xCyLyW56KrodxElMT5DBWUao7zZHjIcpBgzckB2FDIi_IxDpuXiW_sE1q5Ns3o2ms9BMHKpSCTNJ-rjGBt9HAfHyukGLnGP-JVRnVL-4peB2nRG93t-OD4lwQSLgNjlieMAj0s7dpw8ChlpfuOzOK1l_C5KIlUYOdNgHPje4F5nDJuhgPYowkISwsHIRZ2JWgE7Z0D17VIdsW0DTF5NIUhMX9ytrdRb_7MMzEi--Dz4ZfxwVv3ElGJQUDMtiWsKHN8BE51ZKsv9pH54YXehTZJQUgh3TRUzvwwOpG429Dcqou-Ug_aAp2v5ancpGx0ACP8vNnPs489BkcfkNCBJFRZBsflhQ22iGSZ84Zc8qcDzjonoXOfLHnGDSC9Yk89AUW2erJv6xs0D56htTAJSd8mFnQcr4Eq5FPsVw60WkqACE2bC8E1wKOVpM_J0JjcDyqNxwP_akmU-D0vPQ2p7DWvHlimJOerNJ3IExI_Zgg5tJg8XKI_r6PKWFafdKPqkZjbkDP66tdRrryRnVxNI-0ZPwbnwDiPiORLWFBFNZ8cxVmbLq6VvXAtB4hmWrzac6IUS4b844FdhPalyVEYdLStetChBMShUnCM0eA9X1psZYwl4IaPiB53QDxtBRz=w1616-h1080-no)
 
-## My turorials
+## My turorial
 This project listing tutorials help guide anyone in need. You can study, share and contribute with me.
 
+---
+### .NET tutorial
 - Tutorial_20/12/2019: Create a ASP.NET Core project then deploy to Heroku server via CircleCI continuous integration: [https://github.com/duycs/demo-netcore](https://github.com/duycs/demo-netcore){:.text-link}
 
 - Tutorial_08/01/2020: Design a database that description your ideas: [https://github.com/duycs/demo-cms](https://github.com/duycs/demo-cms){:.text-link}
@@ -30,27 +32,5 @@ This project listing tutorials help guide anyone in need. You can study, share a
 
 - Tutorial_x/x/x: ...
 
-
-## My github projects
-- [https://github.com/duycs/duycs.github.io](https://github.com/duycs/duycs.github.io){:.text-link}
-- [https://github.com/duycs/demo-netcore](https://github.com/duycs/demo-netcore){:.text-link}
-- [https://github.com/duycs/demo-django](https://github.com/duycs/demo-django){:.text-link}
-- [https://github.com/duycs/sso-server](https://github.com/duycs/sso-server){:.text-link}
-- [https://github.com/duycs/demo-cms](https://github.com/duycs/demo-cms){:.text-link}
-- [https://github.com/duycs/web-api-car-eco](https://github.com/duycs/web-api-car-eco){:.text-link}
-- [https://github.com/duycs/web-api-book-library](https://github.com/duycs/web-api-book-library){:.text-link}
-- [https://github.com/duycs/demo-angular](https://github.com/duycs/demo-angular){:.text-link}
-- [https://github.com/duycs/demo-vuejs](https://github.com/duycs/demo-vuejs){:.text-link}
-- [https://github.com/duycs/web-app-book-library](https://github.com/duycs/web-app-book-library){:.text-link}
-- [https://github.com/duycs/demo-chrome-extension](https://github.com/duycs/demo-chrome-extension){:.text-link}
-- [https://github.com/duycs/demo-reactjs](https://github.com/duycs/demo-reactjs){:.text-link}
-- [https://github.com/duycs/demo-go](https://github.com/duycs/demo-go){:.text-link}
-- [https://github.com/duycs/QAP4](https://github.com/duycs/QAP4){:.text-link}
-- [https://github.com/duycs/sample-ai](https://github.com/duycs/sample-ai){:.text-link}
-- [https://github.com/duycs/demo-nodejs](https://github.com/duycs/demo-nodejs){:.text-link}
-- [https://github.com/duycs/sample-design-pattern](https://github.com/duycs/sample-design-pattern){:.text-link}
-- [https://github.com/duycs/web-api-user-domain](https://github.com/duycs/web-api-user-domain){:.text-link}
-- [https://github.com/duycs/sample-algorithms](https://github.com/duycs/sample-algorithms){:.text-link}
-- [https://github.com/duycs/app-chat-bot-facebook](https://github.com/duycs/app-chat-bot-facebook){:.text-link}
-- [https://github.com/duycs/demo-domain-driven-design](https://github.com/duycs/demo-domain-driven-design){:.text-link}
-- [](){:.text-link}
+---
+### JS tutorial
