@@ -132,7 +132,6 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [hackerrank.com](https://www.hackerrank.com){:.text-link}
 - [codility.com](https://www.codility.com){:.text-link}
 - [testdome.com](https://www.testdome.com){:text-link}
-- [codefire.org](https://www.codefire.org/){:text-link}
 - [](){:text-link}
 
 --- 
