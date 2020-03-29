@@ -39,6 +39,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 
 ## JAVA
 - [Java Docs](https://docs.oracle.com/javase/tutorial/){:.text-link}
+- [Jhipster](https://www.jhipster.tech/)
 
 ## Python
 - [Django Docs](https://docs.djangoproject.com/en/3.0/){:.text-link}
