@@ -12,6 +12,13 @@ thumbnail: https://lh3.googleusercontent.com/0PzwtW9ojlglU0flQw-8GZbnf0yXz1XtQGW
 ### Criteria
 This project demo Jhipster stack with Spring Boot and Angular.
 
+### Keyword
+- Java 
+- Spring Boot
+- Angular
+- API
+- MySql
+
 ### Source 
 [https://github.com/duycs/demo-jhipster](https://github.com/duycs/demo-jhipster){:.link-text}
 
