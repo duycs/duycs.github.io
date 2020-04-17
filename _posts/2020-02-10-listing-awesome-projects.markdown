@@ -85,6 +85,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 
 ## AWS
 - [AWS Docs](https://docs.aws.amazon.com/){:.text-link}
+- [aws-certified-solutions-architect-associate-study-notes](https://mistwire.com/2016/05/aws-certified-solutions-architect-associate-study-notes/)
 
 ## Azure
 - [Azure Docs](https://docs.microsoft.com/en-us/azure/){:.text-link}
