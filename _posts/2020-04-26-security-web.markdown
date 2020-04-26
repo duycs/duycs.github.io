@@ -25,13 +25,13 @@ Some secure for Web Application
 - Using Known Vulnerable Components
 - Unvalidated Redirects and Forwards
 
-### 1. OWASP
+### OWASP
 - The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.
 
-- You can see top 10 web application security risks at https://owasp.org/www-project-top-ten/
+- You can see top 10 web application security risks at [owasp top 10](https://owasp.org/www-project-top-ten/){:.text-link}
 
-### 2. Injection
-#### 2.1 SQL Injection
+### 1. Injection
+#### 1.1 SQL Injection
 ##### Secenario
 - Current system: Query without checking
 ```
@@ -52,7 +52,7 @@ FindUser(username, password){
 Django use (Prepared query: https://django-prepared-query.readthedocs.io/en/latest/)
 - White list input validation
 
-#### 2.2 OS Command Injection
+#### 1.2 OS Command Injection
 ###### Secenario
 - Current system: A method action with command
 ```
@@ -70,7 +70,7 @@ ExecuteFile(String fileName){
 - Verify data input
 - Use white list, regular expression to verify the character allowed to use..
 
-### 3. Broken Authentication and Session Management
+### 2. Broken Authentication and Session Management
 ##### Secenario
 - Current system:
 Password is not strong (default, week password...)\
@@ -89,7 +89,7 @@ Doesn't roate Session IDs after login sucessful\
 - Server set expiration time for the session
 - Client set HTTPOnly cookies
 
-### 4. Cross Site Scripting (XSS)
+### 3. Cross Site Scripting (XSS)
 ##### Secenario
 - Current system: A resource of Patient with body data ``` name: Joker``` need to save to the database via method POST /api/patient 
 - Hacker action: Change value of field name to a script ``` name: http:evil-script.io``` then submit to save to the database
@@ -105,7 +105,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Encode HTML characters by htmlspecialchars()
 - Use Content Security Policy to execute Javascript from whitelist domain
 
-### 5. Insecure Direct Object References
+### 4. Insecure Direct Object References
 ##### Secenario
 - Current system: A Ecommerce system don't authorization correct user, every user is the same permission
 - Hacker action: Change parameters between 2 users 
@@ -115,7 +115,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Server check permissions to execute on each request function
 - Check permissions to manipulate function on the data in the request
 
-### 6. Security Misconfiguration
+### 5. Security Misconfiguration
 ##### Secenario
 - Current system: A config file in web application easy to see config admin account like as ```...username = "admin" password = "admin"...```
 - Hacker action: Steal configuration file then use admin account infomation to attract the system.
@@ -125,7 +125,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Use a check list to check configuration be careful and safe
 - Don't store production configuration at source code, this information should be configured at deployment environment
 
-### 7. Sensitive Data Exposure
+### 6. Sensitive Data Exposure
 ##### Secenario 1
 - Current system: A system when user input wrong login, the system show sensitive infomation such as wrong password, wrong username. 
 - Hacker action: Hacker can easy known to focus attract this field
@@ -140,7 +140,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - System doesn't show sensitive data
 - Should encrypt all sensitive data at rest by MD5, SHA2...
 
-### 8. Missing Function Level Access Control
+### 7. Missing Function Level Access Control
 ##### Secenario
 - Current system: System have url ```https:bank.com/user/getAccounts``` for normal user login then get information, but allow this user change url to have higer permissions ```https:bank.com/admin/getAccount``` 
 - Hacker action: Change url to hack information of admin
@@ -149,7 +149,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 ##### Prevent
 - Use role-base access control (RBAC) to check permission for each request
 
-### 9. Cross Site Request Forgrey (CSRF)
+### 8. Cross Site Request Forgrey (CSRF)
 ##### Secenario
 - Current system: Web site don't have any token or session to check user for submit request, example a Change-password page don't check token
 - Hacker action: Create a fake Change-password to deceive users to change passwords as the hacker wanted
@@ -158,7 +158,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 ##### Prevent
 - Use token check authentication
 
-### 10. Using Known Vulnerable Components
+### 9. Using Known Vulnerable Components
 ##### Secenario
 - Current system: Plugin, library, feature, files components which are not enough security
 - Hacker action: Find security holes of components then attract
@@ -169,7 +169,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Only obtain components from offical source over secure links
 - Update, enhance security for components
 
-### 11. Unvalidated Redirects and Forwards
+### 10. Unvalidated Redirects and Forwards
 ##### Secenario
 - Current system: Allow easy to redirect to another website, this reditect website can not safe enough
 - Hacker: Create fake links to deceive users into clicking
