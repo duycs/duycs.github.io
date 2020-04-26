@@ -1,0 +1,35 @@
+---
+layout: post
+title: Architecture Concept
+description: Concept, design and implement some architecture
+date: 2020-04-26 10:59:00 +0700
+categories: demo
+thumbnail: https://lh3.googleusercontent.com/xxnvZQEUycvQG3rfj1NzWlEba-6FamXuL3TftTgWgqJwWSChsptxsxLiZycEALSQu4YsVDWlFV_-Cvd45SSl_EU8iGwWvEPrQ8JfG73WqLiDJUE2W9cfQkXLAe1u46S87aj-2uNOYrb3WpyUApOm3AKZDEVnB1f9iJS4F63b5cu1Bc7rGfLGymzITPINR33ck4GqODAyiFS9_8opRJhPbqHLSc5bvs46HdOcOwvuRmEv29xKzJbsOvz3ISuLRhmMqio35NyJttBgHCOTRAIFoDUfd2jLewUHo5E2B-7NAksEc854VmUwzKZIgrCoPWWOg8AtvMXcBB8hlLudJfhNe90MhkAvxxDIifPAownkyp_347dI5ZFqeL4WJhSfIELaLFYPkNw8MBDymq7YuyaTNEUc5S_PZF9tma008Wh141qWzNJ_xTH-htBSLXhluGUgdPNFzB7eQqYVJbtxDNjtX8V44muRswYvUaLBMz_uyIxT1xiRGN1QlL0Dol5IVCUOM2rqzYh-tqpSlQ9434yf82vbUgMhleqe5YLD3lJ28GJnrdLBBeMjT6uKrYc1Oi-fI2Bc44XyuCAkpEiZQrI8tsoefrOB43RyRP8yJeAFxt53pPTbCOdHq9R3Mnt94EWSUlfeFTcUxH5SinhNGXu7lTYNVhHLg9tgiyiYxQPNMOhaHVnaFIE3r7HBzi6s49NvNyk5WT44I_EaCGc4-uH3Mxm5hRLpmDihbA2vLBM9RaUlDUMdv_-RUaY=w1472-h1060-no
+---
+
+![](https://lh3.googleusercontent.com/xxnvZQEUycvQG3rfj1NzWlEba-6FamXuL3TftTgWgqJwWSChsptxsxLiZycEALSQu4YsVDWlFV_-Cvd45SSl_EU8iGwWvEPrQ8JfG73WqLiDJUE2W9cfQkXLAe1u46S87aj-2uNOYrb3WpyUApOm3AKZDEVnB1f9iJS4F63b5cu1Bc7rGfLGymzITPINR33ck4GqODAyiFS9_8opRJhPbqHLSc5bvs46HdOcOwvuRmEv29xKzJbsOvz3ISuLRhmMqio35NyJttBgHCOTRAIFoDUfd2jLewUHo5E2B-7NAksEc854VmUwzKZIgrCoPWWOg8AtvMXcBB8hlLudJfhNe90MhkAvxxDIifPAownkyp_347dI5ZFqeL4WJhSfIELaLFYPkNw8MBDymq7YuyaTNEUc5S_PZF9tma008Wh141qWzNJ_xTH-htBSLXhluGUgdPNFzB7eQqYVJbtxDNjtX8V44muRswYvUaLBMz_uyIxT1xiRGN1QlL0Dol5IVCUOM2rqzYh-tqpSlQ9434yf82vbUgMhleqe5YLD3lJ28GJnrdLBBeMjT6uKrYc1Oi-fI2Bc44XyuCAkpEiZQrI8tsoefrOB43RyRP8yJeAFxt53pPTbCOdHq9R3Mnt94EWSUlfeFTcUxH5SinhNGXu7lTYNVhHLg9tgiyiYxQPNMOhaHVnaFIE3r7HBzi6s49NvNyk5WT44I_EaCGc4-uH3Mxm5hRLpmDihbA2vLBM9RaUlDUMdv_-RUaY=w1472-h1060-no)
+
+### Criteria
+Concept, design and implement some architecture
+
+### Keyword
+- Clean Architecture
+- Onion Architecture
+- Dependence Injection
+- 
+
+### Dependence Injection
+
+### Adapter
+
+### Observer
+
+### Task-Queue
+
+### 
+
+---
+### References
+- https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+- https://jeffreypalermo.com/2008/07/the-onion-architecture-part-2/
+- 
