@@ -10,7 +10,8 @@ thumbnail: https://lh3.googleusercontent.com/mzg-ak3wXzexOEzSC3A9bpEItvrFlMJRpbR
 ![](https://lh3.googleusercontent.com/mzg-ak3wXzexOEzSC3A9bpEItvrFlMJRpbRw5Kca5XJQOYkK9D711Yk_yoAN-gAbNRgqp8V2Umq6Oqgb5OsgwW7FGSGB-mWAF_CIEiFbeve4IjN_7QUlntPyQVlyI9rKpKb_hPrR1oaR0Ja7g6sdUX6Pq0ow3tnax2-qQ7w-lxcRf0R5HrAR8WlK0owO1z9wPZvWckrRnMKPG1gHOgVe1JtSLHnqJax-Cz9CWQ3iI6td6mfD0UZSWGsxMgBvnvoXTkVutmeJlaHA8Hv_mBJupEA21On3TpOXGB7QTcDda5nYcm5Vnh407FU0BtsyLoNe74ZU8Lg94sjYbXYA93-XkGIwwlZArLSZqppj2M_1ssBM2bmfbsP73tsDyZcxc0gvt79MlzvGOkhbh-zChtKRtVETi1q27YNxnYcBL7rDXY8Z2kfElTiJkmOmHv2xpC9i7lSPfBI3t4OlIFDlXcZqVZTI1Z4i6XfpIbSBJh7jfEKDYfimYJQu0n0GtE12HCw4B32TmwH0jt9GXRZJOAmexwdfr1GpQAE-UryKzqqnetOJ57yslr37jJE5b5YPSzb-PVRKoPQld133IQtI9ldLLUf0hEue3QYg-f23Tq15-eZZ3moBsaxncnpc48hk6PT4sGCho3tJd2jN_RbV7C-ejZLbDnIlFE6Hd-okWk8h3MjpSqqofzTAj-Oa4UJekJmEiT4CFwUpm46IQ6okWcdpEZnHxDfnL8znC1zGfzQ4b98IoGF8-ftIA-o=w828-h358-no)
 
 ### Criteria
-Some secure for Web Application
+- Known about OWASP organization
+- Top 10 security problem
 
 ### Keyword
 - OWASP
@@ -49,7 +50,6 @@ FindUser(username, password){
 ##### Prevent
 - Verify input data
 - Don't use concatenated params with string query, use Prepared Statements (Parameterized queries).
-Django use (Prepared query: https://django-prepared-query.readthedocs.io/en/latest/)
 - White list input validation
 
 #### 1.2 OS Command Injection
