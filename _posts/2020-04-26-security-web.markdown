@@ -76,14 +76,14 @@ ExecuteFile(String fileName){
 Password is not strong (default, week password...)\
 Leaked Session IDs show in the URL\
 Doesn't properly invalidate Session IDs\
-Doesn't roate Session IDs after login sucessful\
+Doesn't roate Session IDs after login successful\
 
 - Hacker action: check to detect and steal passwords, session to fake users
 
 ##### Prevent
 - Storage password need to encryption, strong password, multi-factor authentication,...
 - Limit or increasingly delay failed login attempts
-- Server alway check logging in with an avalible session ID
+- Server alway check logging in with an available  session ID
 - Server always create new Session ID when user log in
 - Server remove the Session ID when user log out
 - Server set expiration time for the session
@@ -95,8 +95,8 @@ Doesn't roate Session IDs after login sucessful\
 - Hacker action: Change value of field name to a script ``` name: http:evil-script.io``` then submit to save to the database
 - Result: method get this resource GET /api/patient/x will load the script on client then execute them
 
-Hacker injection HTLM or malicius scripts into client web site. There are 3 type of XSS attract:
-- XSS Reflected: Send link directly to the user to trick the user into cliking on the link then stealing cookies or session
+Hacker injection HTLM or malicious scripts into client web site. There are 3 type of XSS attract:
+- XSS Reflected: Send link directly to the user to trick the user into clicking on the link then stealing cookies or session
 - Dom base XSS: Change the website structure, tricking users into entering information to stals it
 - Stored XSS: Directly insert malicious code the database
 
@@ -118,7 +118,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 ### 5. Security Misconfiguration
 ##### Scenario
 - Current system: A config file in web application easy to see config admin account like as ```...username = "admin" password = "admin"...```
-- Hacker action: Steal configuration file then use admin account infomation to attract the system.
+- Hacker action: Steal configuration file then use admin account information to attract the system.
 - Result: System be attracted 
 
 ##### Prevent 
@@ -127,7 +127,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 
 ### 6. Sensitive Data Exposure
 ##### Scenario 1
-- Current system: A system when user input wrong login, the system show sensitive infomation such as wrong password, wrong username. 
+- Current system: A system when user input wrong login, the system show sensitive information such as wrong password, wrong username. 
 - Hacker action: Hacker can easy known to focus attract this field
 - Result: System be attracted
 
@@ -142,7 +142,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 
 ### 7. Missing Function Level Access Control
 ##### Scenario
-- Current system: System have url ```https:bank.com/user/getAccounts``` for normal user login then get information, but allow this user change url to have higer permissions ```https:bank.com/admin/getAccount``` 
+- Current system: System have url ```https:bank.com/user/getAccounts``` for normal user login then get information, but allow this user change url to have higher permissions ```https:bank.com/admin/getAccount``` 
 - Hacker action: Change url to hack information of admin
 - Result: System be attracted
 
@@ -165,13 +165,13 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Result: System be attracted
 
 ##### Prevent
-- Remove unused dependences, feature, component, files...
-- Only obtain components from offical source over secure links
+- Remove unused dependencies, feature, component, files...
+- Only obtain components from official source over secure links
 - Update, enhance security for components
 
 ### 10. Unvalidated Redirects and Forwards
 ##### Scenario
-- Current system: Allow easy to redirect to another website, this reditect website can not safe enough
+- Current system: Allow easy to redirect to another website, this redirect website can not safe enough
 - Hacker: Create fake links to deceive users into clicking
 - Result: Steal user information
 
@@ -182,5 +182,8 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 ### References
 - https://owasp.org/
 - https://owasp.org/www-project-top-ten/
+- https://vi.wikipedia.org/wiki/SQL_injection
+- https://docs.djangoproject.com/en/3.0/ref/csrf/
 - https://django-prepared-query.readthedocs.io/en/latest/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+
