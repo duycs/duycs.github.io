@@ -18,13 +18,40 @@ Concept, design and implement some architecture
 - Dependence Injection
 - 
 
-### Dependence Injection
+### 1. Dependence Injection
+#### Criteria
+- 
+- 
 
-### Adapter
+At the Onion Architecture, Jeffrey Palermo describe about Independent in software design:
+"The Onion Architecture relies heavily on the Dependency Inversion principle.  The application core needs implementation of core interfaces, and if those implementing classes reside at the edges of the application, we need some mechanism for injecting that code at runtime so the application can do something useful."
 
-### Observer
+#### 1.1 Dependency Inversion principle
+In object-oriented design, the dependency inversion principle is a specific form of decoupling software modules.
 
-### Task-Queue
+
+### Why?
+- At the Clean Architecture of Uncle-Bob, He describle about Independent in software design:
+"
+That each of these architecture produrce system that are:
+1. Independent of Frameworks. The architecture does not depend on the existence of some library of feature laden software. This allows you to use such frameworks as tools, rather than having to cram your system into their limited constraints.
+
+2. Testable. The business rules can be tested without the UI, Database, Web Server, or any other external element.
+
+3. Independent of UI. The UI can change easily, without changing the rest of the system. A Web UI could be replaced with a console UI, for example, without changing the business rules.
+
+4. Independent of Database. You can swap out Oracle or SQL Server, for Mongo, BigTable, CouchDB, or something else. Your business rules are not bound to the database.
+
+5. Independent of any external agency. In fact your business rules simply don’t know anything at all about the outside world.
+"
+
+
+### 2. Provider
+
+### 3. Adapter
+
+### 4. Observer
+
 
 ### 
 
@@ -32,4 +59,4 @@ Concept, design and implement some architecture
 ### References
 - https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-2/
-- 
+- https://en.wikipedia.org/wiki/Dependency_inversion_principle
