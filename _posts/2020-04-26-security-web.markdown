@@ -149,7 +149,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 ##### Prevent
 - Use role-base access control (RBAC) to check permission for each request
 
-### 8. Cross Site Request Forgrey (CSRF)
+### 8. Cross Site Request Forgery (CSRF)
 ##### Secenario
 - Current system: Web site don't have any token or session to check user for submit request, example a Change-password page don't check token
 - Hacker action: Create a fake Change-password to deceive users to change passwords as the hacker wanted
