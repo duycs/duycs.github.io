@@ -33,7 +33,7 @@ thumbnail: https://lh3.googleusercontent.com/mzg-ak3wXzexOEzSC3A9bpEItvrFlMJRpbR
 
 ### 1. Injection
 #### 1.1 SQL Injection
-##### Secenario
+##### Scenario
 - Current system: Query without checking
 ```
 FindUser(username, password){
@@ -53,7 +53,7 @@ FindUser(username, password){
 - White list input validation
 
 #### 1.2 OS Command Injection
-###### Secenario
+###### Scenario
 - Current system: A method action with command
 ```
 ExecuteFile(String fileName){
@@ -71,7 +71,7 @@ ExecuteFile(String fileName){
 - Use white list, regular expression to verify the character allowed to use..
 
 ### 2. Broken Authentication and Session Management
-##### Secenario
+##### Scenario
 - Current system:
 Password is not strong (default, week password...)\
 Leaked Session IDs show in the URL\
@@ -90,7 +90,7 @@ Doesn't roate Session IDs after login sucessful\
 - Client set HTTPOnly cookies
 
 ### 3. Cross Site Scripting (XSS)
-##### Secenario
+##### Scenario
 - Current system: A resource of Patient with body data ``` name: Joker``` need to save to the database via method POST /api/patient 
 - Hacker action: Change value of field name to a script ``` name: http:evil-script.io``` then submit to save to the database
 - Result: method get this resource GET /api/patient/x will load the script on client then execute them
@@ -106,7 +106,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Use Content Security Policy to execute Javascript from whitelist domain
 
 ### 4. Insecure Direct Object References
-##### Secenario
+##### Scenario
 - Current system: A Ecommerce system don't authorization correct user, every user is the same permission
 - Hacker action: Change parameters between 2 users 
 - Result: Will be leaked users information
@@ -116,7 +116,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Check permissions to manipulate function on the data in the request
 
 ### 5. Security Misconfiguration
-##### Secenario
+##### Scenario
 - Current system: A config file in web application easy to see config admin account like as ```...username = "admin" password = "admin"...```
 - Hacker action: Steal configuration file then use admin account infomation to attract the system.
 - Result: System be attracted 
@@ -126,12 +126,12 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Don't store production configuration at source code, this information should be configured at deployment environment
 
 ### 6. Sensitive Data Exposure
-##### Secenario 1
+##### Scenario 1
 - Current system: A system when user input wrong login, the system show sensitive infomation such as wrong password, wrong username. 
 - Hacker action: Hacker can easy known to focus attract this field
 - Result: System be attracted
 
-##### Secenario 2
+##### Scenario 2
 - Current system: A banking system be attracted, then database and log file can be expose, 
 - Hacker action: After have data, many sensitive data can be exploited such as user information
 - Result: Causing harm to users
@@ -141,7 +141,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Should encrypt all sensitive data at rest by MD5, SHA2...
 
 ### 7. Missing Function Level Access Control
-##### Secenario
+##### Scenario
 - Current system: System have url ```https:bank.com/user/getAccounts``` for normal user login then get information, but allow this user change url to have higer permissions ```https:bank.com/admin/getAccount``` 
 - Hacker action: Change url to hack information of admin
 - Result: System be attracted
@@ -150,7 +150,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Use role-base access control (RBAC) to check permission for each request
 
 ### 8. Cross Site Request Forgery (CSRF)
-##### Secenario
+##### Scenario
 - Current system: Web site don't have any token or session to check user for submit request, example a Change-password page don't check token
 - Hacker action: Create a fake Change-password to deceive users to change passwords as the hacker wanted
 - Result: System be attracted
@@ -159,7 +159,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Use token check authentication
 
 ### 9. Using Known Vulnerable Components
-##### Secenario
+##### Scenario
 - Current system: Plugin, library, feature, files components which are not enough security
 - Hacker action: Find security holes of components then attract
 - Result: System be attracted
@@ -170,7 +170,7 @@ Hacker injection HTLM or malicius scripts into client web site. There are 3 type
 - Update, enhance security for components
 
 ### 10. Unvalidated Redirects and Forwards
-##### Secenario
+##### Scenario
 - Current system: Allow easy to redirect to another website, this reditect website can not safe enough
 - Hacker: Create fake links to deceive users into clicking
 - Result: Steal user information
