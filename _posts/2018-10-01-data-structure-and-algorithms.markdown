@@ -4,10 +4,10 @@ title: Data Structure And Algorithms
 description: Data Structure And Algorithms.
 date: 2018-10-01 10:59:00 +0700
 categories: algorithms
-thumbnail: https://photos.google.com/share/AF1QipPa7F2mOCNgrormv2wprIMkvourlZQc6tyab9QDFJ5V8NXKTI-3q30xu7RvXoHw-w/photo/AF1QipO0zf_OtfvX1l-tuqWxDSrvdt1ExJtWygK7tAur?key=dzJBaTRGRjBWcEpJOWZ3Z2VhSDVuZWhHZDgteTJR
+thumbnail: https://photos.app.goo.gl/hr6uYZARK1bbsKjK7
 ---
 
-![](https://photos.google.com/share/AF1QipPa7F2mOCNgrormv2wprIMkvourlZQc6tyab9QDFJ5V8NXKTI-3q30xu7RvXoHw-w/photo/AF1QipO0zf_OtfvX1l-tuqWxDSrvdt1ExJtWygK7tAur?key=dzJBaTRGRjBWcEpJOWZ3Z2VhSDVuZWhHZDgteTJR)
+![](https://photos.app.goo.gl/hr6uYZARK1bbsKjK7)
 
 Data Structure And Algorithms.
 
