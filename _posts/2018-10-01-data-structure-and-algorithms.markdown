@@ -4,10 +4,10 @@ title: Data Structure And Algorithms
 description: Data Structure And Algorithms.
 date: 2018-10-01 10:59:00 +0700
 categories: algorithms
-thumbnail: https://photos.google.com/share/AF1QipPa7F2mOCNgrormv2wprIMkvourlZQc6tyab9QDFJ5V8NXKTI-3q30xu7RvXoHw-w/photo/AF1QipO0zf_OtfvX1l-tuqWxDSrvdt1ExJtWygK7tAur?key=dzJBaTRGRjBWcEpJOWZ3Z2VhSDVuZWhHZDgteTJR
+thumbnail: https://lh3.googleusercontent.com/pw/ACtC-3e-RL8q88cBXBJrfUwcZangXCm_qeBpRh50yTAdrIywl7FvKShs-YrxPZmTdTXk_t16OgXY-aGboBg_EQIBgvNBeG-YmmMctB_Q_JXcGkLG-FpcJa-6jTdQM6wQayX41axEpl1JSzFf8LQgIAK8nhJ_zw=w1361-h789-no?authuser=0
 ---
 
-![](https://photos.google.com/share/AF1QipPa7F2mOCNgrormv2wprIMkvourlZQc6tyab9QDFJ5V8NXKTI-3q30xu7RvXoHw-w/photo/AF1QipO0zf_OtfvX1l-tuqWxDSrvdt1ExJtWygK7tAur?key=dzJBaTRGRjBWcEpJOWZ3Z2VhSDVuZWhHZDgteTJR)
+![](https://lh3.googleusercontent.com/pw/ACtC-3e-RL8q88cBXBJrfUwcZangXCm_qeBpRh50yTAdrIywl7FvKShs-YrxPZmTdTXk_t16OgXY-aGboBg_EQIBgvNBeG-YmmMctB_Q_JXcGkLG-FpcJa-6jTdQM6wQayX41axEpl1JSzFf8LQgIAK8nhJ_zw=w1361-h789-no?authuser=0)
 
 Data Structure And Algorithms.
 
