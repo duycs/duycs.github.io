@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Data Structure And Algorithms
-description: Data Structure And Algorithms.
+title: Data Structure and Algorithms
+description: Data Structure and Algorithms.
 date: 2018-10-01 10:59:00 +0700
 categories: algorithms
 thumbnail: https://lh3.googleusercontent.com/pw/ACtC-3e-RL8q88cBXBJrfUwcZangXCm_qeBpRh50yTAdrIywl7FvKShs-YrxPZmTdTXk_t16OgXY-aGboBg_EQIBgvNBeG-YmmMctB_Q_JXcGkLG-FpcJa-6jTdQM6wQayX41axEpl1JSzFf8LQgIAK8nhJ_zw=w1361-h789-no?authuser=0
@@ -9,7 +9,7 @@ thumbnail: https://lh3.googleusercontent.com/pw/ACtC-3e-RL8q88cBXBJrfUwcZangXCm_
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3e-RL8q88cBXBJrfUwcZangXCm_qeBpRh50yTAdrIywl7FvKShs-YrxPZmTdTXk_t16OgXY-aGboBg_EQIBgvNBeG-YmmMctB_Q_JXcGkLG-FpcJa-6jTdQM6wQayX41axEpl1JSzFf8LQgIAK8nhJ_zw=w1361-h789-no?authuser=0)
 
-Data Structure And Algorithms.
+Data Structure and Algorithms.
 
 ### Criteria
 - Thinking about data structure and algorithms
