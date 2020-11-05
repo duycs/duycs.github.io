@@ -2,7 +2,7 @@
 layout: post
 title: Business Domain
 description: Study business domain.
-date: 2018-10-01 10:59:00 +0700
+date: 2020-11-01 10:59:00 +0700
 categories: business
 thumbnail: 
 ---
