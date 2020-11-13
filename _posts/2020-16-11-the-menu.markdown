@@ -1,0 +1,34 @@
+---
+layout: post
+title: The Menu Project
+description: The Menu online and intelligent.
+date: 2020-16-11 10:59:00 +0700
+categories: project
+thumbnail: 
+---
+
+![]()
+
+The Menu online and intelligent.
+
+### Criteria
+- The Menu online and intelligent.
+
+### Concept
+- Menu
+- Digital transformation
+- Content management system
+- Booking
+- AI
+
+### Source
+[https://github.com/duycs/the-menu-api){:.text-link}
+
+### Keywords
+- The Menu
+
+### Research
+- CMS
+- Booking
+- Software as services
+- AI
