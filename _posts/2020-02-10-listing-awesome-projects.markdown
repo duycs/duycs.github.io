@@ -114,6 +114,7 @@ Listing awesome projects in many domains and stack technical to learning, resear
 - [Awesome VueJs](https://github.com/vuejs/awesome-vue){:.text-link}
 - [Linagora](https://github.com/linagora){:.text-link}
 - [Square Open Source](https://square.github.io/){:.text-link}
+- [Editor] (https://github.com/codex-team/editor.js) {:.text-link}
 
 ## Awesome tools
 - [Airtable](https://airtable.com/){:.text-link}
