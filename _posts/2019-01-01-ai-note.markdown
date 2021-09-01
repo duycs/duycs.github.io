@@ -1,0 +1,21 @@
+---
+layout: post
+title: AI Note
+description: Study and Note for AI
+date: 2019-01-01 10:59:00 +0700
+categories: open source
+thumbnail: 
+---
+![]()
+# Criteria
+Study and Note for AI
+
+---
+
+## Paper
+- [](){:.text-link}
+
+## Book
+- [](){:.text-link}
+
+--- 
