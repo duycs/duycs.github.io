@@ -52,6 +52,29 @@ That each of these architecture produrce system that are:
 
 ### 4. Observer
 
+### Aggregate Model
+- Entity, Root Entity
+- Value Object
+- Enumration
+
+### Events
+- Domain Event
+- Intergration Event
+
+### Cross cuting concern
+- Business rules
+- Caching
+- Logging
+- Data validation
+- Environment variables
+- Error detection and correction
+- Internationalization and localization, ex language localization
+- Security
+- Memory management
+- Monitotring
+- Transaction persistence
+- Synchronization
+- Dependency injection
 
 ### 
 
