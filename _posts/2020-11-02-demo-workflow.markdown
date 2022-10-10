@@ -4,10 +4,10 @@ title: Workflow in Production
 description: An idea about Workflow for automation in production
 date: 2020-11-02 10:59:00 +0700
 categories: platform
-thumbnail: 
+thumbnail: https://drive.google.com/file/d/13_QoIW9wX3xLimHSVeOCq5_wWb8K6kqK/view?usp=sharing
 ---
 
-![]()
+![](https://drive.google.com/file/d/13_QoIW9wX3xLimHSVeOCq5_wWb8K6kqK/view?usp=sharing)
 
 An idea about Workflow for automation in production
 
