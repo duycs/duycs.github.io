@@ -4,7 +4,7 @@ title: Demo Django
 description: This project demo a backend RESTful API use Django framework.
 date: 2020-01-10 10:59:00 +0700
 categories: demo
-thumbnail: https://miro.medium.com/max/700/1*MQ-Lf8tmtfa-pumN2Sh0cw.png
+thumbnail: https://camo.githubusercontent.com/b287b1801494552afe94376f70b06ce03d341e2baf2fbfdc2a6664ccc1c7508f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f312a4d512d4c6638746d7466612d70756d4e3253683063772e706e67
 ---
 
 ![](https://miro.medium.com/max/700/1*MQ-Lf8tmtfa-pumN2Sh0cw.png)
