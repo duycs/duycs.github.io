@@ -1,32 +1,38 @@
 ---
 layout: post
-title: Demo Workflow
-description: Demo workflow with process engine and state machine 
+title: Workflow in Production
+description: An idea about Workflow for automation in production
 date: 2020-11-02 10:59:00 +0700
-categories: engine
+categories: platform
 thumbnail: 
 ---
 
 ![]()
 
-Demo workflow with process engine and state machine.
+An idea about Workflow for automation in production
 
 ### Criteria
-- Demo workflow with process engine and state machine.
+- An idea about Workflow for automation in production
 
 ### Concept
-- what is workflow automation?
-- What is process engine?
-- What is state machine
-- 
+- Imagine an Operation?
+- Modeling Object?
+- Interaction between models? 
+- From State machine to Workflow
+- From many Operations up to next Step
+- A Skill of human with a Step
+- About existing Workflow platform
+- Idea about a new Soft Workflow
 
 ### Keywords
 - Workflow
-- Process engine
-- State machine
 - Automation
+- State machine
+- Operation
+- Skill
+- Step
 
 ---
 ### Referecnces
-- 
+- [https://docs.google.com/presentation/d/1QhnDcnQbItIknqyNwyuiVfbkAspUna7RIdglOjKWG9I/edit?usp=sharing](Slide for presentation){:.text-link}
 - 
