@@ -34,5 +34,5 @@ An idea about Workflow for automation in production
 
 ---
 ### Referecnces
-- [https://docs.google.com/presentation/d/1QhnDcnQbItIknqyNwyuiVfbkAspUna7RIdglOjKWG9I/edit?usp=sharing](Slide for presentation){:.text-link}
+- [Slide for presentation](https://docs.google.com/presentation/d/1QhnDcnQbItIknqyNwyuiVfbkAspUna7RIdglOjKWG9I/edit?usp=sharing){:.text-link}
 - 
