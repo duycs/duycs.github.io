@@ -202,6 +202,11 @@ git commit -m "sort description"
 git commit -a -m "sort description"
 ```
 
+- commit empty to trigger rebuild
+```
+git commit --allow-empty -m "Trigger rebuild"
+```
+
 ### 10. push change
 - push change to origin on current branch: 
 ```
