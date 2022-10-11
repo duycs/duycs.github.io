@@ -2,7 +2,7 @@
 layout: post
 title: The Menu Project
 description: The Menu online and intelligent.
-date: 2020-16-11 10:59:00 +0700
+date: 2020-11-16 10:59:00 +0700
 categories: project
 thumbnail: 
 ---
