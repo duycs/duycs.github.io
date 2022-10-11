@@ -20,7 +20,7 @@ layout: home
           </a>
         </div>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          <h2 class="title">{{ post.title }}</h2>
+          <h2 class="title">{{ post.title  }}</h2>
         </a>
         <p class="description">{{ post.description }}</p>
       </div>
