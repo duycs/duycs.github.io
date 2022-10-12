@@ -4,10 +4,10 @@ title: SSO Server Identity
 description: Create a Single sign on authentication server, support development many applications with only once sign on.
 date: 2019-12-04 10:59:00 +0700
 categories: demo
-thumbnail: https://drive.google.com/file/d/1rfcOXlrsO4MXlYGYKkHIdAQcwZsJZkAA/view?usp=sharing
+thumbnail: https://lh3.googleusercontent.com/pw/AL9nZEWmkGGwg4ysKNi7IrWnZFj9VOKHFeqzQT0stPVeJll9ilir9lMp1FlY7I6MpbqzUuvVTBmuXz8w_XCFPUR2tClzE52qSFxZ0yC8ykmAOqtXcr6K9edf6CeSmftrQeEm9PjwJFVqpqfuj1GmNmi8cDi0Zg=w282-h178-no?authuser=0
 ---
 
-![](https://drive.google.com/file/d/1rfcOXlrsO4MXlYGYKkHIdAQcwZsJZkAA/view?usp=sharing)
+![](https://lh3.googleusercontent.com/pw/AL9nZEWmkGGwg4ysKNi7IrWnZFj9VOKHFeqzQT0stPVeJll9ilir9lMp1FlY7I6MpbqzUuvVTBmuXz8w_XCFPUR2tClzE52qSFxZ0yC8ykmAOqtXcr6K9edf6CeSmftrQeEm9PjwJFVqpqfuj1GmNmi8cDi0Zg=w282-h178-no?authuser=0)
 
 ## Criteria
 Create a Single sign on authentication server, support development many applications with only once sign on
