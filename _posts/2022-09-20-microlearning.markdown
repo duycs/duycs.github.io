@@ -9,12 +9,12 @@ thumbnail: https://lh3.googleusercontent.com/pw/AL9nZEVMRYcOasnmSd5_0XYPQCs330o3
 
 ![](https://lh3.googleusercontent.com/pw/AL9nZEVMRYcOasnmSd5_0XYPQCs330o3dCnNqA86Cau0AbIBhPTVBOzYoswtdoOsERPYh3rkbiD_w4DDvUBEfmsHsv83qMnPkCtUnnkAlAafCVg0OBVzGLGUguTAcyEZ_VcTJkCaKDEhjLuvLJRoZaa2fyqukA=w2606-h1412-no?authuser=0)
 
-#### Criterial
+### Criterial
 - R&D microlearning methodology
 - Develop applications about microlearning
 
-#### Concept
-- [https://www.microlearning.vn/blog/phuong-phap-microlearning](Microlearning){:.text-link}
+### Concept
+- [Microlearning](https://www.microlearning.vn/blog/phuong-phap-microlearning){:.text-link}
 
-#### Develop applications
-[https://www.microlearning.vn/](microlearning.vn){:.text-link}
+### Develop applications
+- [microlearning.vn](https://www.microlearning.vn/){:.text-link}
