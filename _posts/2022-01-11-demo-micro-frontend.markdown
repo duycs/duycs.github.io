@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Micro frontends
-description: concept and implement a micro frontends application
+description: Concept and implement a micro frontends application
 date: 2022-01-11 10:59:00 +0700
 categories: platform
 thumbnail: https://lh3.googleusercontent.com/pw/AL9nZEUGu3_fnvmDeMQ5fVxRUxS_vKOzKJuCeWhFDEVXWX8vsy_hKyEzHrnJgYwl9Nmw0ChKE0S2rcs4Kh3gHUKtYzIgE6eTjBOTOz33OovTDJf6DDgJ_0gjDwLTJuJ-6wGwdMU153imSmafR11tKRXPzp-vOw=w1692-h969-no
