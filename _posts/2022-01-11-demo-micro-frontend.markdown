@@ -18,3 +18,9 @@ Micro frontend
 The idea behind Micro Frontends is to think about a website or web app as a composition of features which are owned by independent teams. Each team has a distinct area of business or mission it cares about and specialises in. A team is cross functional and develops its features end-to-end, from database to user interface. (micro-frontends.org)
 
 ### Demo
+
+### References
+- https://micro-frontends.org/
+- https://single-spa.js.org/
+- https://qiankun.umijs.org/
+- https://luigi-project.io/
