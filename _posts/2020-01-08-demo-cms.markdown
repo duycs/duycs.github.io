@@ -165,5 +165,6 @@ dotnet run
 
 ---
 ## Referecnces
+- https://docs.developers.optimizely.com/content-cloud/v12.0.0-content-cloud/docs/what-is-a-cms
 - https://dev.mysql.com/doc/connector-net/en/connector-net-entityframework-core-scaffold-example.html
 - https://www.entityframeworktutorial.net/efcore/create-model-for-existing-database-in-ef-core.aspx
