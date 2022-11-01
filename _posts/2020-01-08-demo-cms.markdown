@@ -1,15 +1,15 @@
 ---
 layout: post
-title: A simple idea about CMS
-description: A simple Content management system with Database first.
+title: A concept about CMS
+description: A concept and simple demo about Content Management System.
 date: 2020-01-08 10:59:00 +0700
 categories: demo
-thumbnail: https://wiki.matbao.net/wp-content/uploads/2019/08/cms-la-gi-vai-tro-cms-trong-chien-dich-marketing.jpg
+thumbnail: https://lh3.googleusercontent.com/pw/AL9nZEVyOPbwxcgBMvWuTkrgU79zwn_CX3yPTrHo7mxJ16fQaa0L6r0urOxZqCLBVyb7Ph3mRB5M6uXBTXTdmzzyZpDHbYo7BMd8eYOteUuyOh-70pMrf9ejDPeJ_6A6lpyLKNHTWVwiUy_DFSuj9iCucIsBhA=w568-h328-no?authuser=0
 ---
 
-![](https://wiki.matbao.net/wp-content/uploads/2019/08/cms-la-gi-vai-tro-cms-trong-chien-dich-marketing.jpg)
+![](https://lh3.googleusercontent.com/pw/AL9nZEVyOPbwxcgBMvWuTkrgU79zwn_CX3yPTrHo7mxJ16fQaa0L6r0urOxZqCLBVyb7Ph3mRB5M6uXBTXTdmzzyZpDHbYo7BMd8eYOteUuyOh-70pMrf9ejDPeJ_6A6lpyLKNHTWVwiUy_DFSuj9iCucIsBhA=w568-h328-no?authuser=0)
 
-A simple Content management system with Database first.
+ A concept and simple demo about Content Management System.
 
 ### Criteria
 - Think about an idea then implement this
