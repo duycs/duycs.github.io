@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Social network
-description: A social for share and learn from each other, based on ideas between Medium, Quora and Stack Exchange socials, where everyone can write an long article or make a simple question, can become a teacher make tutorials or student study and make testing.
+title: A simple Social network
+description: A social for share and learn from each other, inspired from Medium, Quora and Stack Exchange socials, where everyone can write an long article or make a simple question, can become a teacher make tutorials or student study and make testing.
 date: 2019-03-23 10:59:00 +0700
 categories: demo
 thumbnail: https://lh3.googleusercontent.com/NBC2_AYoL0Gf547Y8rOwxLojlVpQU-24-diC4X07cxkIAcqyrIYXbCjchCBvq1s5YcHpyoESdi0CJN3iLTjY0orb6Pgm4ryrYqDhkZlQJnLXFxPTLwkyj2j_vz7K8_lpYdAroOpOYjxVvUTOJzIp7t1U6M1fOwn_w6l4tkhmd49-5COrfAzawXiP1a3FKNVuBaBt0KK4Lr3rU2AEa8o120hnhjL1KufNCjQ_JKKOAIrCF98rJmCocTsAPRGS4_7yctAswC45LYm3CTwXD8xR7igCEDbkeHmVbuBsXjMKSLXYPV2jmvbi24uIfjxzFLsDZMq2ktuRO_UQvVpHxQUwa_xJ5E5rtxeMj9jE-TH3C27AFOPKXw_GpjpDcanQJ6TVYNUgVlRyXxRpgxj6C4gCToNLuEoMymGYxUufbEGjB9bdxmKDano6yPjZ732qSpLo_MKQcF72bB5AA9FyrICgolx4R3c_zWho5_7t4Cn8siM7479dY69WXU_uPtNEqGpwBbVjJn86yiKCtFnVUfzTMA3ygzdq0Acusydlpq3bQc6KSyDmiImWB4bCBMMEYIVncSI_vPOV3JxW_9V5rsdjSpo0mix_fnXXB1JYhHsOZWhNJta_EOWmQLzelzbx4jG3T2E8ef4jjJ6FefXqSNyVsU6WnvZCsb3831N47nGSaFuHoydtMwGbFYWE04mT_xeXbMDB0zCddFkQaXtjjlWJKg-cSVLZsLezuGK0cC_VMzNvYVNp=w1080-h830-no
