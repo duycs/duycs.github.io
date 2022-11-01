@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demo Net core and continuous integration
+title: Demo .NET Core
 description: Create a ASP.NET Core project then deploy to Heroku server via CircleCI continuous integration.
 date: 2019-12-20 10:59:00 +0700
 categories: demo
