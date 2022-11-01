@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get inspired to design a Social network
+title: A Social network
 description: A social for share and learn from each other, based on ideas between Medium, Quora and Stack Exchange socials, where everyone can write an long article or make a simple question, can become a teacher make tutorials or student study and make testing.
 date: 2019-03-23 10:59:00 +0700
 categories: demo
