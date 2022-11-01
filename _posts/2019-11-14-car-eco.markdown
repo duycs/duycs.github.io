@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demo Laravel
+title: Demo Laravel API
 description: A project Laravel API for transport ecosystem and car trade.
 date: 2019-11-14 10:59:00 +0700
 categories: demo
