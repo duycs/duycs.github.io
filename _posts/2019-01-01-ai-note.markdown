@@ -18,4 +18,7 @@ Study and Note for AI
 ## Book
 - [](){:.text-link}
 
+## References
+- https://huggingface.co/VietAI/gptho?fbclid=IwAR08KnB_BHAy5vfgRoILs0wS__lpKnHmBmF6i0LTTqob5r1CCZxEEHcxA4Y&text=%3C%7Cendoftext%7C%3E+h%E1%BB%8Dc+h%C3%A0nh
+
 --- 
