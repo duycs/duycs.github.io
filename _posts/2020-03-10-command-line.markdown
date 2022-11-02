@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Command note
+title: Command Note
 description: Some command line for Mac, Linus, Windows, Cloud.
 date: 2020-03-10 10:59:00 +0700
 categories: command
