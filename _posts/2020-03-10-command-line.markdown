@@ -11,7 +11,7 @@ thumbnail:
 
 Command line for Mac, Linus, Windows, Cloud.
 
-## I. Vim
+## Vim
 #### 1. Moving 
 - left
 ```H```
@@ -51,6 +51,22 @@ Command line for Mac, Linus, Windows, Cloud.
 ```:w!```
 - save then exit
 ```:wq```
+
+
+## NodeJs
+- determining
+```node -v```
+
+- install
+```sudo npm install -g n```
+
+- upgrade
+```sudo n stable```
+
+- change to specific version 16.x
+```sudo n 16```
+
+
 
 ---
 ### References
