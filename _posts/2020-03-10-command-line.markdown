@@ -66,6 +66,16 @@ Command line for Mac, Linus, Windows, Cloud.
 - change to specific version 16.x
 ```sudo n 16```
 
+## MySQL
+#### MacOS
+- start
+```mysql.server start```
+
+- stop
+```mysql.server stop```
+
+- restart
+```mysql.server restart```
 
 
 ---
