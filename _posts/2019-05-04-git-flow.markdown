@@ -184,6 +184,7 @@ git checkout -- .
 git reset
 git checkout .
 git clean -fdx
+git clean -df
 ```
 
 ### 8. remove a file on staging area
