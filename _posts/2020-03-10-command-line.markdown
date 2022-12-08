@@ -81,6 +81,10 @@ Command line for Mac, Linus, Windows, Cloud.
 - run with Staging profile
 ``` dotnet run --launch-profile "Staging"```
 
+### Docker
+- run expose port
+```docker run -p 8080:80 yourimage```
+
 ---
 ### References
 - https://kipalog.com/posts/Lam-quen-VIM-trong-5-phut
