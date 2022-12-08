@@ -77,6 +77,9 @@ Command line for Mac, Linus, Windows, Cloud.
 - restart
 ```mysql.server restart```
 
+### .NET Core CLI
+- run with Staging profile
+``` dotnet run --launch-profile "Staging"```
 
 ---
 ### References
