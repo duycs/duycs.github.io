@@ -82,8 +82,13 @@ Command line for Mac, Linus, Windows, Cloud.
 ``` dotnet run --launch-profile "Staging"```
 
 ### Docker
+- build with tag and docker filename
+```docker build -t docker-tag -f dockerFilename
+
 - run expose port
 ```docker run -p 8080:80 yourimage```
+
+
 
 ---
 ### References
