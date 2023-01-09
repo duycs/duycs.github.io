@@ -466,6 +466,24 @@ git checkout -[branch-name-B]
 git cherry-pick [branch-name-A]
 ```
 
+### 24. remove sensitive git history
+- Check out to a temporary branch:
+```git checkout --orphan TEMP_BRANCH```
+
+- Add all the files:
+```git add -A```
+
+- Commit the changes:
+```git commit -am "Initial commit"```
+
+- Delete the old branch:
+```git branch -D master```
+
+- Rename the temporary branch to master:
+```git branch -m master```
+
+- Finally, force update to our repository:
+```git push -f origin master```
 
 ***Questions?***
 - ***What are different between reset and revert commit?***
