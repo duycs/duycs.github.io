@@ -32,6 +32,13 @@ An idea about Workflow for automation in production
 - Skill
 - Step
 
+### We edit demo
+- Sources: [we-edit-api](https://github.com/duycs/we-edit){:.text-link}
+- Deployment: [we-edit-app](http://weedit-app.s3-website-ap-northeast-1.amazonaws.com/){:.text-link}
+
+### We Work
+- Source: - [We-work](https://github.com/duycs/we-work){:.text-link}
+
 ---
 ### Referecnces
 - [Slide for presentation](https://docs.google.com/presentation/d/1QhnDcnQbItIknqyNwyuiVfbkAspUna7RIdglOjKWG9I/edit?usp=sharing){:.text-link}
