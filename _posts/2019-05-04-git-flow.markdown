@@ -485,6 +485,14 @@ git cherry-pick [branch-name-A]
 - Finally, force update to our repository:
 ```git push -f origin master```
 
+### Add remote to source
+- Add remote to exist source code:
+```git init```
+```git remote add origin [fir-url]```
+
+- Solve pull issue The “fatal: refusing to merge unrelated histories” Git error:
+```git pull origin master --allow-unrelated-histories```
+
 ***Questions?***
 - ***What are different between reset and revert commit?***
 
