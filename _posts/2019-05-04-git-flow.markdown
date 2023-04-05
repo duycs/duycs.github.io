@@ -11,33 +11,33 @@ thumbnail: https://lh3.googleusercontent.com/ZGBwZnk0t03GM2jBoAATxVX4_gq7rjOKcUw
 Git command and flow.
 
 ## I. Git branch strategy
-### 1. ***master*** branch
+### ***master*** branch
 - this is main branch, fist commit to this branch
 - this branch always be merged, not merge to any branch
 - be up to date
 
-### 2. ***develop*** branch
+### ***develop*** branch
 - main branch for develop
 - this branch need qualites same as master branch
 - sometime merge to master branch
 
-### 3. ***feature\[feature-name]*** branch
+### ***feature\[feature-name]*** branch
 - sub branch for a new feature
 - get new from develop branch
 - finish rebase to develop branch or merge to develop branch
 
-### 4. ***bugfix\[bug-name]*** branch
+### ***bugfix\[bug-name]*** branch
 - sub branch for fix each bug
 - get new from master branch
 - after pass test then merge to develop branch
 
-### 5. ***release\[1.x]*** branch
+### ***release\[1.x]*** branch
 - branch for deploy stage and production 
 - get new from master branch 
 - have description of features and bugs is resolved
 - after fixed and pass testing then merge develop branch and master branch
 
-### 6. ***hotfix\[hotfix-name]*** branch
+### ***hotfix\[hotfix-name]*** branch
 - sub branch for hot fix bug of release/stage/production branch
 - get new from master branch
 - after fixed and pass testing then merge to master and develop branch
@@ -81,7 +81,7 @@ git push origin master
 ```
 
 ## III. Git command on repository
-### 1. show branch
+### Show branch
 - show all branch on local checked out: 
 ```
 git branch
@@ -108,7 +108,7 @@ git checkout [branch-name]
 git checkout -b [branch-name]
 ```
 
-### 3. fetch from branch
+### Fetch from branch
 - fetch from current branch:
 ```
 git fetch
@@ -119,7 +119,7 @@ git fetch
 fetch [branch-name]
 ```
 
-### 4. create branch
+### Create branch
 - create new branch and checkout this in local repository: 
 ```
 git checkout -b [branch-name]
@@ -131,7 +131,7 @@ git checkout -b [branch-name]
 git push [branch-name] [branch-remote-name]
 ```
 
-### 5. add files change
+### Add files change
 - commit a file: 
 ```
 git add -[file-name]
@@ -152,7 +152,7 @@ git add . -u
 git add . -A
 ```
 
-### 6. unstage file
+### Unstage file
 - reset HEAD cusor: 
 ```
 git reset HEAD
@@ -168,7 +168,7 @@ git reset
 git reset --[file-name]
 ```
 
-### 7. discard file
+### Discard file
 - checkout a file: 
 ```
 git checkout --[file-name]
@@ -187,12 +187,12 @@ git clean -fdx
 git clean -df
 ```
 
-### 8. remove a file on staging area
+### Remove a file on staging area
 ```
 git rm --cached [file-name]
 ```
 
-### 9. commit change
+### Commit change
 - commit with message: 
 ```
 git commit -m "sort description"
@@ -208,7 +208,7 @@ git commit -a -m "sort description"
 git commit --allow-empty -m "Trigger rebuild"
 ```
 
-### 10. push change
+### Push change
 - push change to origin on current branch: 
 ```
 git push [remote-name] : [branch-name]
@@ -239,7 +239,7 @@ git push [remote-branch] [tag-name]
 git push [remote-branch] --tags
 ```
 
-### 11. delete branch
+### Delete branch
 - delete branch on local: 
 ```
 git branch -d [branch_name]
@@ -250,7 +250,7 @@ git branch -d [branch_name]
 git push origin --delete [branch_name]
 ```
 
-### 12. rename branch
+### Rename branch
 - rename your local branch, if you are on local branch: 
 ```
 git branch -m [new-name]
@@ -271,7 +271,7 @@ git push origin :[old-name] [new-name]
 git push origin -u [new-branch]
 ```
 
-### 13. rebase branch, rebase a feature branch to master branch
+### Rebase branch, rebase a feature branch to master branch
 ```
 git checkout [feature\branch-name]
 git rebase to master
@@ -296,7 +296,7 @@ git merge feature/branch-name
 - after merge all commit of feature/branch-name on head of master
 - if pass QA test, remove features/branch-name
 
-### 14. merge branch
+### Merge branch
 - merge a feature branch to master branch: 
 ```
 git checkout master
@@ -311,7 +311,7 @@ git branch -d feature
 git push origin develop
 ```
 
-### 15. tag
+### Tag
 - add tag: 
 ```
 git tag -a [tag-name] -m "[tag-description]"
@@ -343,7 +343,7 @@ git push origin [tag-name]
 git push origin --tags
 ```
 
-### 16. log infomation
+### Log infomation
 - log infomation commit: 
 ```
 git log --oneline
@@ -354,7 +354,7 @@ git log --oneline
 git reflog
 ```
 
-### 17. reset a commit
+### Reset a commit
 - reset all change and not commit at HEAD cusor: 
 ```
 git reset --hard HEAD
@@ -385,7 +385,7 @@ git reset --merge [commit-SHA1]
 git reset --keep [commit-SHA1]
 ```
 
-### 18. recover a reseted commit
+### Recover a reseted commit
 - recover a reseted commit
 ```
 git branch recover-branch [commit-SHA1]
@@ -399,19 +399,19 @@ git show [commit-SHA1]
 
 - show change infomation, can apply change file again
 
-### 19. revert a commit
+### Revert a commit
 - undo a merge commit and want to keep history commit: 
 ```
 git revert HEAD
 ```
 
-### 20. amend a commit
+### Amend a commit
 - you commied a file then if you want add a new file change in a commited: 
 ```
 git commit --amend --no-edit
 ```
 
-### 21. stash
+### Stash
 - when you checkouting a branch and have a change, git stash save a change when you want to checkout another branch: 
 ```
 git stash save
@@ -429,7 +429,7 @@ git stash pop stash@{n}
 
 - delete all stash: git stash clear
 
-### 22. git flow, this is template base on ***Vincent Driessen***
+### Git flow, this is template base on ***Vincent Driessen***
 - init a git flow: 
 ```
 git flow init
@@ -457,7 +457,7 @@ git flow hotfix start VERSION [base-name]
 git flow hotfix finish VERSION
 ```
 
-### 23. cherry-pick
+### Cherry-pick
 Allows you to pick any commits you made in any branch to any other branch. In your case you can simply checkout master branch and then cherry-pick all the commits from any branch that you wish.
 ```
 git add -[branch-name-A]
@@ -466,7 +466,7 @@ git checkout -[branch-name-B]
 git cherry-pick [branch-name-A]
 ```
 
-### 24. remove sensitive git history
+### Remove sensitive git history
 - Check out to a temporary branch:
 ```git checkout --orphan TEMP_BRANCH```
 
